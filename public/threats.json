@@ -1,0 +1,1250 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333844",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "3",
+            "name": "Threats",
+            "fatherTypeId": "1",
+            "style": 2,
+            "status": 2,
+            "position": 8,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "689",
+                "name": "Marble Appendage",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260131/7887973031859/697d7ff4999d93f266196c0c_6ad0f152.png",
+                  "name": "Marble Appendage",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1769833053",
+                "caption": []
+              },
+              {
+                "itemId": "687",
+                "name": "Blazemist Originium Slug",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260131/7887973031859/697d8056d0a295d967277ad7_2f76db19.png",
+                  "name": "Blazemist Originium Slug",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769833049",
+                "caption": []
+              },
+              {
+                "itemId": "686",
+                "name": "Firemist Originium Slug",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260131/7887973031859/697d804e6e6ef0172ec48626_6ad0f152.png",
+                  "name": "Firemist Originium Slug",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769833035",
+                "caption": []
+              },
+              {
+                "itemId": "496",
+                "name": "Tidalklast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db3a8e868cec3d8081177.png",
+                  "name": "Tidalklast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811222",
+                "caption": []
+              },
+              {
+                "itemId": "431",
+                "name": "Rhodagn the Bonekrushing Fist",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db8c712f135f6ddc0c458.png",
+                  "name": "Rhodagn the Bonekrushing Fist",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768811305",
+                "caption": []
+              },
+              {
+                "itemId": "430",
+                "name": "Bonekrusher Siegeknuckles",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db8e4859d9d5c90cf7639.png",
+                  "name": "Bonekrusher Siegeknuckles",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768812176",
+                "caption": []
+              },
+              {
+                "itemId": "429",
+                "name": "Bonekrusher Vanguard",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db9194b089c6bf87606ee.png",
+                  "name": "Bonekrusher Vanguard",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814860",
+                "caption": []
+              },
+              {
+                "itemId": "428",
+                "name": "Elite Executioner",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db957c9b3cd796e6b9016.png",
+                  "name": "Elite Executioner",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814869",
+                "caption": []
+              },
+              {
+                "itemId": "427",
+                "name": "Elite Ripptusk",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db99012f135f6ddc0c459.png",
+                  "name": "Elite Ripptusk",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814904",
+                "caption": []
+              },
+              {
+                "itemId": "426",
+                "name": "Elite Ambusher",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db9b41d54a250d5f45173.png",
+                  "name": "Elite Ambusher",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814910",
+                "caption": []
+              },
+              {
+                "itemId": "425",
+                "name": "Elite Raider",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db9cf29caab7ab1be2414.png",
+                  "name": "Elite Raider",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814917",
+                "caption": []
+              },
+              {
+                "itemId": "424",
+                "name": "Hazefyre Tuskbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696db9f46fc80a6e96441e67.png",
+                  "name": "Hazefyre Tuskbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814922",
+                "caption": []
+              },
+              {
+                "itemId": "423",
+                "name": "Bonekrusher Ripptusk",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba0c433a5f03544128de.png",
+                  "name": "Bonekrusher Ripptusk",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814929",
+                "caption": []
+              },
+              {
+                "itemId": "422",
+                "name": "Hazefyre Claw",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba22507303c4d44a26ca.png",
+                  "name": "Hazefyre Claw",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814935",
+                "caption": []
+              },
+              {
+                "itemId": "421",
+                "name": "Bonekrusher Infiltrator",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba3b6c326a83dea2ead1.png",
+                  "name": "Bonekrusher Infiltrator",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814942",
+                "caption": []
+              },
+              {
+                "itemId": "420",
+                "name": "Bonekrusher Ballista",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba609b232958b8d4d192.png",
+                  "name": "Bonekrusher Ballista",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768814946",
+                "caption": []
+              },
+              {
+                "itemId": "419",
+                "name": "Bonekrusher Arsonist",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba7de868cec3d8081178.png",
+                  "name": "Bonekrusher Arsonist",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768815336",
+                "caption": []
+              },
+              {
+                "itemId": "418",
+                "name": "Bonekrusher Pyromancer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dba930920b30f43778da1.png",
+                  "name": "Bonekrusher Pyromancer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768815408",
+                "caption": []
+              },
+              {
+                "itemId": "417",
+                "name": "Bonekrusher Executioner",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbaa722b3d4859079ccab.png",
+                  "name": "Bonekrusher Executioner",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768815419",
+                "caption": []
+              },
+              {
+                "itemId": "416",
+                "name": "Imbued Quillbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbb115086e19cbe3e0e8a.png",
+                  "name": "Imbued Quillbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815430",
+                "caption": []
+              },
+              {
+                "itemId": "415",
+                "name": "Hazefyre Axe Armorbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbb3a816a3c0f65fe8a96.png",
+                  "name": "Hazefyre Axe Armorbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815437",
+                "caption": []
+              },
+              {
+                "itemId": "414",
+                "name": "Glaring Rakerbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbb55e3acca11e53da623.png",
+                  "name": "Glaring Rakerbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815454",
+                "caption": []
+              },
+              {
+                "itemId": "413",
+                "name": "Acid Originium Slug·α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbb87f47b48c6aa787a0f.png",
+                  "name": "Acid Originium Slug·α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815461",
+                "caption": []
+              },
+              {
+                "itemId": "412",
+                "name": "Brutal Pincerbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbba512f135f6ddc0c45a.png",
+                  "name": "Brutal Pincerbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815467",
+                "caption": []
+              },
+              {
+                "itemId": "410",
+                "name": "Waterlamp",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbbbe5086e19cbe3e0e8b.png",
+                  "name": "Waterlamp",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815473",
+                "caption": []
+              },
+              {
+                "itemId": "409",
+                "name": "Quillbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696df25abc25979e22692626.png",
+                  "name": "Quillbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815008",
+                "caption": []
+              },
+              {
+                "itemId": "408",
+                "name": "Spotted Rakerbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbc40d09866eeaf56a8ea.png",
+                  "name": "Spotted Rakerbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815479",
+                "caption": []
+              },
+              {
+                "itemId": "407",
+                "name": "Acid Originium Slug",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbc5947aad8c833daee99.png",
+                  "name": "Acid Originium Slug",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815017",
+                "caption": []
+              },
+              {
+                "itemId": "406",
+                "name": "Indigenous Pincerbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbc6fee53304b0008b53d.png",
+                  "name": "Indigenous Pincerbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815021",
+                "caption": []
+              },
+              {
+                "itemId": "405",
+                "name": "Axe Armorbeast",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbc82f787d1fc599d9a13.png",
+                  "name": "Axe Armorbeast",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815025",
+                "caption": []
+              },
+              {
+                "itemId": "404",
+                "name": "Tunneling Nidwyrm",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbc9812f135f6ddc0c45b.png",
+                  "name": "Tunneling Nidwyrm",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768815031",
+                "caption": []
+              },
+              {
+                "itemId": "403",
+                "name": "Grove Archer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbcc6fb64b62c2836be8c.png",
+                  "name": "Grove Archer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10260"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10260"],
+                "publishedAtTs": "1768815035",
+                "caption": []
+              },
+              {
+                "itemId": "402",
+                "name": "Road Plunderer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696df2b0dcdae0e84e9869b5.png",
+                  "name": "Road Plunderer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10260"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10260"],
+                "publishedAtTs": "1768815042",
+                "caption": []
+              },
+              {
+                "itemId": "401",
+                "name": "Marble Aggelomoirai",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbd2562faf24e47c5251b.png",
+                  "name": "Marble Aggelomoirai",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815046",
+                "caption": []
+              },
+              {
+                "itemId": "400",
+                "name": "Triaggelos",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbd42f47b48c6aa787a10.png",
+                  "name": "Triaggelos",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815050",
+                "caption": []
+              },
+              {
+                "itemId": "399",
+                "name": "Tidewalker δ",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbd5a29caab7ab1be2415.png",
+                  "name": "Tidewalker δ",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815055",
+                "caption": []
+              },
+              {
+                "itemId": "398",
+                "name": "Hedron δ",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbd6da3dc39acc046930b.png",
+                  "name": "Hedron δ",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815061",
+                "caption": []
+              },
+              {
+                "itemId": "397",
+                "name": "Mudflow δ",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbd8812f135f6ddc0c45c.png",
+                  "name": "Mudflow δ",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815484",
+                "caption": []
+              },
+              {
+                "itemId": "396",
+                "name": "Tidewalker",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbda4bc25979e2269261f.png",
+                  "name": "Tidewalker",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815344",
+                "caption": []
+              },
+              {
+                "itemId": "395",
+                "name": "Prism",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbdbfc4a7d14c7025c1e1.png",
+                  "name": "Prism",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815361",
+                "caption": []
+              },
+              {
+                "itemId": "394",
+                "name": "Hedron",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696df2d1e868cec3d8081181.png",
+                  "name": "Hedron",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815349",
+                "caption": []
+              },
+              {
+                "itemId": "393",
+                "name": "Mudflow",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbdd6507303c4d44a26cb.png",
+                  "name": "Mudflow",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815367",
+                "caption": []
+              },
+              {
+                "itemId": "392",
+                "name": "Walking Chrysopolis",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbdf27c0413b3124ca553.png",
+                  "name": "Walking Chrysopolis",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815372",
+                "caption": []
+              },
+              {
+                "itemId": "391",
+                "name": "Bonekrusher Ambusher",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbe08f33d371ad95355a7.png",
+                  "name": "Bonekrusher Ambusher",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768815381",
+                "caption": []
+              },
+              {
+                "itemId": "390",
+                "name": "Falsewings α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbe242911efa230ad9007.png",
+                  "name": "Falsewings α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815387",
+                "caption": []
+              },
+              {
+                "itemId": "389",
+                "name": "Falsewings",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbe3a519331a97920f7fb.png",
+                  "name": "Falsewings",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815394",
+                "caption": []
+              },
+              {
+                "itemId": "388",
+                "name": "Bonekrusher Raider",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbe629b232958b8d4d195.png",
+                  "name": "Bonekrusher Raider",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10259"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10259"],
+                "publishedAtTs": "1768815401",
+                "caption": []
+              },
+              {
+                "itemId": "387",
+                "name": "Effigy",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dbe7b12f135f6ddc0c45e.png",
+                  "name": "Effigy",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768815075",
+                "caption": []
+              },
+              {
+                "itemId": "386",
+                "name": "Sentinel",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbe9547aad8c833daee9a.png",
+                  "name": "Sentinel",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811426",
+                "caption": []
+              },
+              {
+                "itemId": "385",
+                "name": "Heavy Sting α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbe73816a3c0f65fe8a98.png",
+                  "name": "Heavy Sting α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811416",
+                "caption": []
+              },
+              {
+                "itemId": "384",
+                "name": "Heavy Ram α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbe4ca3432288f624b024.png",
+                  "name": "Heavy Ram α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811407",
+                "caption": []
+              },
+              {
+                "itemId": "383",
+                "name": "Sting α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbe06e2418a3fd9e2937b.png",
+                  "name": "Sting α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811400",
+                "caption": []
+              },
+              {
+                "itemId": "382",
+                "name": "Ram α",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbdbe5f36488577aae79e.png",
+                  "name": "Ram α",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811393",
+                "caption": []
+              },
+              {
+                "itemId": "381",
+                "name": "Heavy Sting",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbd90816a3c0f65fe8a97.png",
+                  "name": "Heavy Sting",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811385",
+                "caption": []
+              },
+              {
+                "itemId": "380",
+                "name": "Sting",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbd4dc4a7d14c7025c1e0.png",
+                  "name": "Sting",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811375",
+                "caption": []
+              },
+              {
+                "itemId": "379",
+                "name": "Heavy Ram",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbc9d8a63ab649db93f89.png",
+                  "name": "Heavy Ram",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811362",
+                "caption": []
+              },
+              {
+                "itemId": "378",
+                "name": "Ram",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dbc7a4823bf18f42e7d6c.png",
+                  "name": "Ram",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10258",
+                      "value": "10261"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10261"],
+                "publishedAtTs": "1768811326",
+                "caption": []
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10258",
+                "children": [
+                  {
+                    "id": "10261",
+                    "children": [],
+                    "name": "Aggeloi",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10259",
+                    "children": [],
+                    "name": "Landbreakers",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10260",
+                    "children": [],
+                    "name": "Cangzei Pirates",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10269",
+                    "children": [],
+                    "name": "Wildlife",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Type",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

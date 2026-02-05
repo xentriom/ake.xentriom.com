@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333911",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "8",
+            "name": "Events",
+            "fatherTypeId": "1",
+            "style": 8,
+            "status": 2,
+            "position": 10,
+            "icon": "",
+            "items": [],
+            "filterTagTree": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1462 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333842",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "5",
+            "name": "Facilities",
+            "fatherTypeId": "1",
+            "style": 7,
+            "status": 2,
+            "position": 5,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "217",
+                "name": "Gun Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676a9b6c326a83dea2ea6c.png",
+                  "name": "Gun Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768408858",
+                "caption": []
+              },
+              {
+                "itemId": "215",
+                "name": "Medical Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c11a1c4dd69df7d697a.png",
+                  "name": "Medical Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768408928",
+                "caption": []
+              },
+              {
+                "itemId": "214",
+                "name": "Grenade Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c296c326a83dea2ea6d.png",
+                  "name": "Grenade Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768408969",
+                "caption": []
+              },
+              {
+                "itemId": "212",
+                "name": "LN Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c410920b30f43778d48.png",
+                  "name": "LN Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768408987",
+                "caption": []
+              },
+              {
+                "itemId": "210",
+                "name": "Heavy Gun Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c6ca1c4dd69df7d697c.png",
+                  "name": "Heavy Gun Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768409000",
+                "caption": []
+              },
+              {
+                "itemId": "209",
+                "name": "Omnidirectional Sonic Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c84a3dc39acc0469298.png",
+                  "name": "Omnidirectional Sonic Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768409014",
+                "caption": []
+              },
+              {
+                "itemId": "207",
+                "name": "Beam Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676c9ca1c4dd69df7d697d.png",
+                  "name": "Beam Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768409025",
+                "caption": []
+              },
+              {
+                "itemId": "205",
+                "name": "Surge Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676cb34b089c6bf87606a3.png",
+                  "name": "Surge Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768409050",
+                "caption": []
+              },
+              {
+                "itemId": "204",
+                "name": "Sentry Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676cd54823bf18f42e7d01.png",
+                  "name": "Sentry Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768408895",
+                "caption": []
+              },
+              {
+                "itemId": "203",
+                "name": "HE Grenade Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676cfd0920b30f43778d49.png",
+                  "name": "HE Grenade Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768386297",
+                "caption": []
+              },
+              {
+                "itemId": "202",
+                "name": "Fluid Supply Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c63e962faf24e47c52504.png",
+                  "name": "Fluid Supply Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10248"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10248"],
+                "publishedAtTs": "1768726291",
+                "caption": []
+              },
+              {
+                "itemId": "201",
+                "name": "Marsh Gas Mk I",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260114/7887973031859/69676d17e868cec3d8081111.png",
+                  "name": "Marsh Gas Mk I",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10249"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10249"],
+                "publishedAtTs": "1768386239",
+                "caption": []
+              },
+              {
+                "itemId": "200",
+                "name": "Sprinkler",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c6563133439cd5afffab7.png",
+                  "name": "Sprinkler",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726826",
+                "caption": []
+              },
+              {
+                "itemId": "199",
+                "name": "Zipline Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c6581433a5f03544128c8.png",
+                  "name": "Zipline Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727408",
+                "caption": []
+              },
+              {
+                "itemId": "198",
+                "name": "Zipline Pylon",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c66066c326a83dea2eaba.png",
+                  "name": "Zipline Pylon",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727390",
+                "caption": []
+              },
+              {
+                "itemId": "197",
+                "name": "Memo Beacon",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c668e682c1955b863817f.png",
+                  "name": "Memo Beacon",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727377",
+                "caption": []
+              },
+              {
+                "itemId": "196",
+                "name": "Easy Stash",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c66c465ffe70e9535fa9c.png",
+                  "name": "Easy Stash",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727364",
+                "caption": []
+              },
+              {
+                "itemId": "195",
+                "name": "Thermal Bank",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c67022911efa230ad8ff5.png",
+                  "name": "Thermal Bank",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10251"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10251"],
+                "publishedAtTs": "1768727356",
+                "caption": []
+              },
+              {
+                "itemId": "194",
+                "name": "Xiranite Relay",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c8f146fc80a6e96441e53.png",
+                  "name": "Xiranite Relay",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10251"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10251"],
+                "publishedAtTs": "1768727322",
+                "caption": []
+              },
+              {
+                "itemId": "193",
+                "name": "Relay Tower",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c8f544b089c6bf87606de.png",
+                  "name": "Relay Tower",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10251"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10251"],
+                "publishedAtTs": "1768727308",
+                "caption": []
+              },
+              {
+                "itemId": "192",
+                "name": "Xiranite Pylon",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c8f6c1d54a250d5f4515e.png",
+                  "name": "Xiranite Pylon",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10251"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10251"],
+                "publishedAtTs": "1768727291",
+                "caption": []
+              },
+              {
+                "itemId": "191",
+                "name": "Electric Pylon",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c8f88e3acca11e53da612.png",
+                  "name": "Electric Pylon",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10251"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10251"],
+                "publishedAtTs": "1768726301",
+                "caption": []
+              },
+              {
+                "itemId": "190",
+                "name": "Separating Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c8fbf3aee85a90709d6cf.png",
+                  "name": "Separating Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726313",
+                "caption": []
+              },
+              {
+                "itemId": "189",
+                "name": "Forge of the Sky",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c902c507303c4d44a26bc.png",
+                  "name": "Forge of the Sky",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726416",
+                "caption": []
+              },
+              {
+                "itemId": "188",
+                "name": "Reactor Crucible",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c90805086e19cbe3e0e70.png",
+                  "name": "Reactor Crucible",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726323",
+                "caption": []
+              },
+              {
+                "itemId": "187",
+                "name": "Grinding Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c90d22911efa230ad8ff8.png",
+                  "name": "Grinding Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726498",
+                "caption": []
+              },
+              {
+                "itemId": "186",
+                "name": "Packaging Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c90f0a4537379deaf3461.png",
+                  "name": "Packaging Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726431",
+                "caption": []
+              },
+              {
+                "itemId": "185",
+                "name": "Filling Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9177859d9d5c90cf7629.png",
+                  "name": "Filling Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726505",
+                "caption": []
+              },
+              {
+                "itemId": "184",
+                "name": "Gearing Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c91b929caab7ab1be2400.png",
+                  "name": "Gearing Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10254"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10254"],
+                "publishedAtTs": "1768726514",
+                "caption": []
+              },
+              {
+                "itemId": "183",
+                "name": "Seed-Picking Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c921c4d84f24c1e9557ab.png",
+                  "name": "Seed-Picking Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768726439",
+                "caption": []
+              },
+              {
+                "itemId": "182",
+                "name": "Planting Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c923dbc25979e2269260e.png",
+                  "name": "Planting Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768726487",
+                "caption": []
+              },
+              {
+                "itemId": "181",
+                "name": "Amber Rice Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c93ad133439cd5afffab8.png",
+                  "name": "Amber Rice Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726530",
+                "caption": []
+              },
+              {
+                "itemId": "180",
+                "name": "Moulding Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c96db47aad8c833daee8a.png",
+                  "name": "Moulding Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768726734",
+                "caption": []
+              },
+              {
+                "itemId": "179",
+                "name": "Redjade Ginseng Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c93e347aad8c833daee89.png",
+                  "name": "Redjade Ginseng Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726749",
+                "caption": []
+              },
+              {
+                "itemId": "178",
+                "name": "Tartpepper Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c94d5d09866eeaf56a8d2.png",
+                  "name": "Tartpepper Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726766",
+                "caption": []
+              },
+              {
+                "itemId": "177",
+                "name": "Fitting Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c97024823bf18f42e7d53.png",
+                  "name": "Fitting Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768726773",
+                "caption": []
+              },
+              {
+                "itemId": "176",
+                "name": "Reed Rye Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c94f3d09866eeaf56a8d3.png",
+                  "name": "Reed Rye Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726814",
+                "caption": []
+              },
+              {
+                "itemId": "175",
+                "name": "Shredding Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9728e3acca11e53da613.png",
+                  "name": "Shredding Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768727279",
+                "caption": []
+              },
+              {
+                "itemId": "174",
+                "name": "Yazhen Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c950f41855c182ecdc192.png",
+                  "name": "Yazhen Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726833",
+                "caption": []
+              },
+              {
+                "itemId": "173",
+                "name": "Jincao Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9532c15709c5bd08bfc7.png",
+                  "name": "Jincao Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727035",
+                "caption": []
+              },
+              {
+                "itemId": "172",
+                "name": "Aketine Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c957af33d371ad9535595.png",
+                  "name": "Aketine Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727028",
+                "caption": []
+              },
+              {
+                "itemId": "171",
+                "name": "Sandleaf Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9598682c1955b8638183.png",
+                  "name": "Sandleaf Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727042",
+                "caption": []
+              },
+              {
+                "itemId": "170",
+                "name": "Citrome Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c95bea1c4dd69df7d69c9.png",
+                  "name": "Citrome Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768727021",
+                "caption": []
+              },
+              {
+                "itemId": "169",
+                "name": "Refining Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9745a4537379deaf3463.png",
+                  "name": "Refining Unit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10250"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10250"],
+                "publishedAtTs": "1768726855",
+                "caption": []
+              },
+              {
+                "itemId": "168",
+                "name": "Buckflower Plot",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c954df787d1fc599d9a07.png",
+                  "name": "Buckflower Plot",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768726840",
+                "caption": []
+              },
+              {
+                "itemId": "167",
+                "name": "Depot Bus Port",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9779484c700e816d216b.png",
+                  "name": "Depot Bus Port",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768726864",
+                "caption": []
+              },
+              {
+                "itemId": "166",
+                "name": "Depot Bus Section",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c979de3acca11e53da614.png",
+                  "name": "Depot Bus Section",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768726870",
+                "caption": []
+              },
+              {
+                "itemId": "165",
+                "name": "Fluid Tank",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c97bc65ffe70e9535fa9f.png",
+                  "name": "Fluid Tank",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768727048",
+                "caption": []
+              },
+              {
+                "itemId": "164",
+                "name": "Depot Unloader",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c982865ffe70e9535faa0.png",
+                  "name": "Depot Unloader",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768727058",
+                "caption": []
+              },
+              {
+                "itemId": "163",
+                "name": "Depot Loader",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c98787c0413b3124ca53d.png",
+                  "name": "Depot Loader",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768727012",
+                "caption": []
+              },
+              {
+                "itemId": "162",
+                "name": "Protocol Stash",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c98b91d54a250d5f4515f.png",
+                  "name": "Protocol Stash",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10253"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10253"],
+                "publishedAtTs": "1768727068",
+                "caption": []
+              },
+              {
+                "itemId": "161",
+                "name": "Pipe Converger",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c98efa1c4dd69df7d69ca.png",
+                  "name": "Pipe Converger",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727075",
+                "caption": []
+              },
+              {
+                "itemId": "160",
+                "name": "Pipe Bridge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9922b90f45bf919c3587.png",
+                  "name": "Pipe Bridge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727083",
+                "caption": []
+              },
+              {
+                "itemId": "159",
+                "name": "Pipe Splitter",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c995265ffe70e9535faa1.png",
+                  "name": "Pipe Splitter",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727122",
+                "caption": []
+              },
+              {
+                "itemId": "158",
+                "name": "Pipe Control Port",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c99bbd09866eeaf56a8d4.png",
+                  "name": "Pipe Control Port",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727129",
+                "caption": []
+              },
+              {
+                "itemId": "157",
+                "name": "Converger",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9a24133439cd5afffab9.png",
+                  "name": "Converger",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727136",
+                "caption": []
+              },
+              {
+                "itemId": "156",
+                "name": "Belt Bridge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9a47303281de3f074f74.png",
+                  "name": "Belt Bridge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727159",
+                "caption": []
+              },
+              {
+                "itemId": "155",
+                "name": "Splitter",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9a614d84f24c1e9557ac.png",
+                  "name": "Splitter",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727227",
+                "caption": []
+              },
+              {
+                "itemId": "154",
+                "name": "Item Control Port",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c9a7ea3432288f624b00f.png",
+                  "name": "Item Control Port",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10252"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10252"],
+                "publishedAtTs": "1768727144",
+                "caption": []
+              },
+              {
+                "itemId": "153",
+                "name": "Fluid Pump",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c6545859d9d5c90cf7627.png",
+                  "name": "Fluid Pump",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10248"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10248"],
+                "publishedAtTs": "1768727234",
+                "caption": []
+              },
+              {
+                "itemId": "152",
+                "name": "Electric Mining Rig Mk II",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c6520b24c2cc3c20975f2.png",
+                  "name": "Electric Mining Rig Mk II",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10248"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10248"],
+                "publishedAtTs": "1768727242",
+                "caption": []
+              },
+              {
+                "itemId": "151",
+                "name": "Electric Mining Rig",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c639d9b232958b8d4d17f.png",
+                  "name": "Electric Mining Rig",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10248"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10248"],
+                "publishedAtTs": "1768727252",
+                "caption": []
+              },
+              {
+                "itemId": "150",
+                "name": "Portable Originium Rig",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260118/7887973031859/696c636ec4a7d14c7025c1cb.png",
+                  "name": "Portable Originium Rig",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10247",
+                      "value": "10248"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10248"],
+                "publishedAtTs": "1768727263",
+                "caption": []
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10000",
+                "children": [
+                  {
+                    "id": "10001",
+                    "children": [],
+                    "name": "1★",
+                    "type": 2,
+                    "value": "rarity_1"
+                  },
+                  {
+                    "id": "10002",
+                    "children": [],
+                    "name": "2★",
+                    "type": 2,
+                    "value": "rarity_2"
+                  },
+                  {
+                    "id": "10003",
+                    "children": [],
+                    "name": "3★",
+                    "type": 2,
+                    "value": "rarity_3"
+                  },
+                  {
+                    "id": "10004",
+                    "children": [],
+                    "name": "4★",
+                    "type": 2,
+                    "value": "rarity_4"
+                  },
+                  {
+                    "id": "10005",
+                    "children": [],
+                    "name": "5★",
+                    "type": 2,
+                    "value": "rarity_5"
+                  },
+                  {
+                    "id": "10006",
+                    "children": [],
+                    "name": "6★",
+                    "type": 2,
+                    "value": "rarity_6"
+                  }
+                ],
+                "name": "Rarity",
+                "type": 2,
+                "value": ""
+              },
+              {
+                "id": "10247",
+                "children": [
+                  {
+                    "id": "10248",
+                    "children": [],
+                    "name": "Resourcing",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10252",
+                    "children": [],
+                    "name": "Logistics Units",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10253",
+                    "children": [],
+                    "name": "Depot Access",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10250",
+                    "children": [],
+                    "name": "Production I",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10254",
+                    "children": [],
+                    "name": "Assembly",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10251",
+                    "children": [],
+                    "name": "Power",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10249",
+                    "children": [],
+                    "name": "Combat & Support",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10278",
+                    "children": [],
+                    "name": "Planting",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10279",
+                    "children": [],
+                    "name": "Miscellaneous",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Type",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

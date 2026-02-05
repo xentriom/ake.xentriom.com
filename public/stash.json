@@ -1,0 +1,1947 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333842",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "16",
+            "name": "Valuables Stash",
+            "fatherTypeId": "1",
+            "style": 7,
+            "status": 2,
+            "position": 4,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "684",
+                "name": "Endpoint Quota",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260131/6743194780021/697e046f11c341691f137d0c_56331367.png",
+                  "name": "Endpoint Quota",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1769834109",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A rare quota resource. Exchangeable for goods at the Quota Exchange."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A certificate that symbolizes the breadth of expertise and knowledge of Endfield operators. Your Endfielders come from all corners of the world. They have etched their names, their stories, and their lives upon this place."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "683",
+                "name": "Arsenal Ticket",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260131/6743194780021/697e0528c57157bc15170bd7_2f76db19.png",
+                  "name": "Arsenal Ticket",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10270"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10270"],
+                "publishedAtTs": "1769834113",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A special Arsenal Issue currency. Can be used to purchase weapons."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "\"It doesn't hurt to be armed to the teeth.\" — Shayen Krad"
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "642",
+                "name": "T-Creds",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696dfba6e3acca11e53da62a.png",
+                  "name": "T-Creds",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10270"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10270"],
+                "publishedAtTs": "1767871120",
+                "caption": [
+                  {
+                    "bold": true,
+                    "color": "light_text_primary",
+                    "kind": "text",
+                    "text": {
+                      "text": "TC for short. This currency is recognized and used in many places."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A popular currency furnished with highly advanced anti-counterfeiting technologies. You know it's good money when you can purchase things with it."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "648",
+                "name": "Origeometry",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696dff0c4b089c6bf87606f8.png",
+                  "name": "Origeometry",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995451",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "An extremely rare crystal habit of Originium with many potential uses."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A derivative of Protocol Originium that can only be made with the most extreme processing environments. Some Endfielders call this the Tear of the Protocol. They believe that Dijiang felt sorrow and shed these Tears when she silently gazed upon the suffering of the Talosians."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "645",
+                "name": "Oroberyl",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696dfc224823bf18f42e7d7b.png",
+                  "name": "Oroberyl",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10270"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10270"],
+                "publishedAtTs": "1768226564",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "An artificial material often used for recruiting operators."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special product of cut Origeometry. These stones are extremely popular due to their beauty and wide range of uses."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "663",
+                "name": "Basic HH Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f80cc9b232958b8d4d209.png",
+                  "name": "Basic HH Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995387",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "An internal certificate of Endfield Industries. Use this to perform 1 headhunting in [Basic Headhunting]."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "Endfield Industries has many connections and resources throughout Talos-II. Whenever the Endfield HR Division starts headhunting in a particular sector of the industry, someone will always answer the call."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "662",
+                "name": "Chartered HH Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f81a447aad8c833daef21.png",
+                  "name": "Chartered HH Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995392",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "An internal certificate of Endfield Industries. Use this to perform 1 headhunting in [Chartered Headhunting]."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "Talos-II is home to plenty of talented individuals. To satisfy the ever-increasing demand for skilled operators of Endfield Industries, the HR Division has prepared a special and temporary contingent measure for headhunting."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "661",
+                "name": "New Horizons HH-10×Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f8220f47b48c6aa787a9a.png",
+                  "name": "New Horizons HH-10×Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995396",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "An internal certificate of Endfield Industries. Use this to perform 10×headhunting in [New Horizons Headhunting]."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "To familiarize the freshly awakened Endministrator with the many ongoing projects of Endfield, the HR Division planned a special recruitment event."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "660",
+                "name": "AIC Quota",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696e00fe62faf24e47c5252a.png",
+                  "name": "AIC Quota",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995403",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Exchangeable for goods at the Quota Exchange."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A certificate recognized in the exchanges of supply quotas. People say the AIC Factory doesn't produce goods. It \"prints\" them. That's how fast and powerful it is."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "658",
+                "name": "Firewalker's Trail HH Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f8316a3dc39acc0469397.png",
+                  "name": "Firewalker's Trail HH Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995412",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 1 headhunting in [Scars of the Forge] Chartered Headhunting. This certificate will expire when [Scars of the Forge] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "657",
+                "name": "Bond Quota",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696e00957c0413b3124ca560.png",
+                  "name": "Bond Quota",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995418",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Exchangeable for goods at the Quota Exchange."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A certificate recognized in the exchanges of supply quotas. Endfield operators are guaranteed a wide range of amenities that cover daily expenses, traveling, and accommodations."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "656",
+                "name": "Spectral Splendor HH Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f83a2ee53304b0008b5bc.png",
+                  "name": "Spectral Splendor HH Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995422",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 1 headhunting in [Hues of Passion] Chartered Headhunting. This certificate will expire when [Hues of Passion] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "655",
+                "name": "Messenger Express HH Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f84024d84f24c1e955852.png",
+                  "name": "Messenger Express HH Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995426",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 1 headhunting in [The Floaty Messenger] Chartered Headhunting. This certificate will expire when [The Floaty Messenger] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "654",
+                "name": "Firewalker's Trail 10×Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f845c7a9d81effdbeee6f.png",
+                  "name": "Firewalker's Trail 10×Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995430",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 10×headhunting in [Scars of the Forge] Chartered Headhunting. This certificate will expire when [Scars of the Forge] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit. NOTE: HR operators have spent entire weeks preparing this permit. Use it wisely."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "653",
+                "name": "Sanity Usage Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696e0010479fef709c2c321e.png",
+                  "name": "Sanity Usage Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995435",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Use this to consume double Sanity and claim double rewards from Sanity-consuming game modes. 1 permit must be used for every 10 Sanity consumed."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A permit that instantly consumes massive Sanity. Excessive Sanity depletion is extremely harmful to the human physique. Before you proceed, you'll need to go through a full medical examination from the Medical Division."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "652",
+                "name": "Spectral Splendor 10×Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f84b28230f1b03cc50a99.png",
+                  "name": "Spectral Splendor 10×Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995439",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 10×headhunting in [Hues of Passion] Chartered Headhunting. This certificate will expire when [Hues of Passion] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit. NOTE: HR operators have spent entire weeks preparing this permit. Use it wisely."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "651",
+                "name": "Messenger Express 10×Permit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f850665ffe70e9535fb4b.png",
+                  "name": "Messenger Express 10×Permit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10271"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10271"],
+                "publishedAtTs": "1768995443",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "A limited-time Endfield Industries certificate. Use this to perform 10×headhunting in [The Floaty Messenger] Chartered Headhunting. This certificate will expire when [The Floaty Messenger] Chartered Headhunting ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special HR permit for headhunting operators who meet various unique requirements. Given the emergency of this request, this permit will inevitably expire after a certain time limit. NOTE: HR operators have spent entire weeks preparing this permit. Use it wisely."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "650",
+                "name": "Headhunting Dossier",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/6743194780021/696f857adcdae0e84e986a4c.png",
+                  "name": "Headhunting Dossier",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10277"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10277"],
+                "publishedAtTs": "1768995447",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Once the next Chartered Headhunting banner begins, this headhunting dossier will be automatically converted to a special 10×Permit of the Chartered Headhunting banner. However, this 10×Permit will also expire once that banner ends."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A notebook filled with all sorts of internal recommendations. New operators are often encouraged to make a list of reliable people they know. Of course, information acquired this way must undergo a lengthy process before the verified and validated names can be entered into the system."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "649",
+                "name": "Arms OC: Smelting Forge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970d606e2418a3fd9e29489.png",
+                  "name": "Arms OC: Smelting Forge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10273"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10273"],
+                "publishedAtTs": "1769836346",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Open this to select and receive one weapon provided within."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A heavy crate with incredibly tight seals. \"Availability of weapon choices translates into safer battlefield operations,\" thought the Arsenal Engineers. And thus they filled up the crate with weaponry that reflected the smelting forge."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "647",
+                "name": "Curated Weapon Supply",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970d8cec15709c5bd08c0f0.png",
+                  "name": "Curated Weapon Supply",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10273"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10273"],
+                "publishedAtTs": "1769836360",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Open this to select and receive one weapon provided within."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "Something that helps the user face any enemy — even if the final outcome is annihilation. The Arsenal Engineer has adopted such standards to place the best possible weapons in the supply crate."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "646",
+                "name": "New Horizons Weapon Supply",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970d9aa4b089c6bf8760816.png",
+                  "name": "New Horizons Weapon Supply",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10273"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10273"],
+                "publishedAtTs": "1769836368",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Open this to select and receive one weapon provided within."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "Initiate the journey, for the sake of all the tears, wounds, steel, and fire that have been shed."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "644",
+                "name": "Strawberry Crepe",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970da94a4537379deaf3570.png",
+                  "name": "Strawberry Crepe",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10274"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10274"],
+                "publishedAtTs": "1769836373",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "Use this to recover 40 Sanity."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A crepe with a generous load of stuffing. Yvonne also gave it some fondant accessories in the likeness of Frost-e-Bytee and Tink-a-Bella."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "643",
+                "name": "Seasalt Ice Cream",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970db1a433a5f03544129e7.png",
+                  "name": "Seasalt Ice Cream",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10274"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10274"],
+                "publishedAtTs": "1769836377",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Use this to recover 40 Sanity."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "Ice cream with a dash of seasalt to bring out its sweetness. This is one of Laevatain's most preferred flavors, of which there are quite a few."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "641",
+                "name": "Sanity Extractor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970dcf2f33d371ad95356cc.png",
+                  "name": "Sanity Extractor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10276"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10276"],
+                "publishedAtTs": "1769836383",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Fill this with Sanity to convert it into Sanity Essence."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special auto-extractor."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "\"Your keen senses shall be fused with your desires to explore this world, and create medicinal sanity supplements that you can hold in reserve.\""
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "640",
+                "name": "Sanity Syrup",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260121/6743194780021/6970dd86507303c4d44a27ef.png",
+                  "name": "Sanity Syrup",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10274"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10274"],
+                "publishedAtTs": "1769836390",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Use this to recover 40 Sanity."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A pharmaceutical agent capable of restoring sanity. Consider doubling your intake if you're seeing double when reading these instructions."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "639",
+                "name": "Avywenna's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696decb141855c182ecdc1a9.png",
+                  "name": "Avywenna's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995455",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Avywenna's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A traveler's diary with numerous souvenirs and memorabilia that Avywenna collected from various locations of Talos-II. These include a pinch of dirt from the Old Northern Frontiers, and a group photo with the Endmin glued upon the final page."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "637",
+                "name": "Endministrator's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696ded70859d9d5c90cf763f.png",
+                  "name": "Endministrator's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995459",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises the Endministrator's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A blazing hot Originium cluster. The road stretches out behind you. Before you looms an empty, deathly silence. Please ... head towards the Starting Point."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "636",
+                "name": "Perlica's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696deef28a63ab649db93f8f.png",
+                  "name": "Perlica's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995464",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Perlica's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "An Originium fragment secreted away. It once belonged to the one she most admires. The fragment bore the hopes of that special someone, and ignited her passion for Protocol-Originium Technology."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "635",
+                "name": "Chen Qianyu's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696def68816a3c0f65fe8a9d.png",
+                  "name": "Chen Qianyu's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995472",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Chen Qianyu's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_rank_gray",
+                    "kind": "text",
+                    "text": {
+                      "text": "A branch carefully cleaned to remove barbs and bark. She once swung it as a sword when she was but a girl who dreamed of being a hero."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "634",
+                "name": "Wulfgard's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df005a3432288f624b028.png",
+                  "name": "Wulfgard's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10257"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10257"],
+                "publishedAtTs": "1768995476",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Wulfgard's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "An old firearm with obvious signs of modification. He knows where every part is, the conditions in which they work, and how they could be removed so he could use them individually."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "633",
+                "name": "Arclight's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df0ab6c326a83dea2eadc.png",
+                  "name": "Arclight's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995481",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Arclight's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A fowlbeast woodcarving made by the children whom the Songseeker once helped. The Songseekers carry the \"hanna\" with them and always extend a helping hand towards those who wish to survive. They are like fowlbeasts. Since the winds never cease, the seekers will never quit."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "632",
+                "name": "Ember's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df111fb64b62c2836be93.png",
+                  "name": "Ember's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995485",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Ember's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard Oathkeeper dagger bearing the marks of many battles. With ice, snow, and mighty peaks as witnesses, the crusade shall continue, and the embers shall be re-ignited."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "631",
+                "name": "Xaihi's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df192303281de3f074f8e.png",
+                  "name": "Xaihi's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995490",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Xaihi's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A prayer of a Cabal of Tranquility cleric that Xaihi uses as a bookmark. This bookmark accompanied her as she read through the seemingly endless collection of the Cabal."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "630",
+                "name": "Gilberta's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df20cbc25979e22692625.png",
+                  "name": "Gilberta's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995494",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Gilberta's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "An intricate scented sachet giving off the refreshing scents of sour citromes and the cloying sweetness of floral petals. Gilberta made this by mixing all sorts of ingredients together. A whiff of the sachet's fragrance reminds people of her smile."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "629",
+                "name": "Snowshine's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df28ea4537379deaf347a.png",
+                  "name": "Snowshine's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995498",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Snowshine's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "An intricate talisman engraved with these words: \"May you be forever one step ahead of the storm\" — Her wish is to protect precious lives who found themselves hopelessly lost in the snow, help them survive the disaster, escape the dangers, and lead them onto the safe road to home and loved ones."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "628",
+                "name": "Lifeng's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df304d09866eeaf56a8f5.png",
+                  "name": "Lifeng's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995502",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Lifeng's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A very old and dog-eared Martial Codex. The book is filled with scribbles that convey a young man's feelings, his hard work and dedication, as well as his hopes and dreams."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "627",
+                "name": "Laevatain's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df369ee53304b0008b547.png",
+                  "name": "Laevatain's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995506",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Laevatain's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A piece of paper filled with notes about the places she visited, the people she met, and the things that mattered to her. Freshly made memories are gradually filling up the gaps in her past."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "626",
+                "name": "Yvonne's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df3b05086e19cbe3e0e93.png",
+                  "name": "Yvonne's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995513",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Yvonne's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A ticket to La Fantoma. You've been invited to enjoy sandy beaches and ocean winds... But that can wait till she completes her research paper about the Ætherside."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "625",
+                "name": "Da Pan's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df45c1d54a250d5f4517e.png",
+                  "name": "Da Pan's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995519",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Da Pan's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A special menu with all sorts of fowls, fins, and everything in between. Da Pan always traveled the lands of Talos-II with his iron wok, and it has been used to prepare delicious food of every cuisine."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "624",
+                "name": "Akekuri's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df4d66c326a83dea2eadd.png",
+                  "name": "Akekuri's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995523",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Akekuri's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A set of Higashinese snacks. Rather than enjoying private moments for nostalgia's sake, she prefers sharing the snacks in other occasions. Examples include visitors of her place, colleagues during work breaks, or teammates at operational deployment briefings."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "623",
+                "name": "Catcher's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df54fa4537379deaf347b.png",
+                  "name": "Catcher's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995527",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Catcher's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A handwritten menu. It is extremely exhaustive, and includes every Z7 teammates' gastronomic preferences, the flavors they like, and things they would not touch with a ten-foot pole."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "622",
+                "name": "Estella's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df78c2911efa230ad9011.png",
+                  "name": "Estella's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995531",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Estella's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A psychedelic vinyl that inflicts dizziness and nausea. Estella says the sounds help her sleep. Is that ... actually possible?"
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "621",
+                "name": "Fluorite's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df7f8d09e72e95f958ba7.png",
+                  "name": "Fluorite's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995535",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Fluorite's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A small gadget shaped like a bomb. Activate the mechanisms in the right sequence to open the casing and access the candies within. Very nice, if only she would hand out these pleasant \"surprises\" more often."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "620",
+                "name": "Antal's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df861d09e72e95f958ba8.png",
+                  "name": "Antal's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995540",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Antal's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A stash of meticulously kept letters, all written by Antal's grandmother who lives New Wrankwood far, far away. The letters contain the most mundane greetings, the simplest messages of care, and the warmest lines of longing between members of a loving family."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "619",
+                "name": "Alesh's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df8fba468ebd61385665a.png",
+                  "name": "Alesh's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995547",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Alesh's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A very life-like lure. This is Alesh's new trick, one that exudes a lethal-dose of attraction to vicious predatory fins. Nobody knows which of them would bite next."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "618",
+                "name": "Ardelia's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696df9bf4823bf18f42e7d7a.png",
+                  "name": "Ardelia's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995552",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Ardelia's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A rock sample mined from the depths of Talos-II. It is a record of this land's geological evolution, a collection of scars from wounds suffered in eons past, and a silent testament of this planet's history."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "617",
+                "name": "Last Rite's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696dfa1c9b232958b8d4d19a.png",
+                  "name": "Last Rite's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995557",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Last Rite's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "A little flower frozen by frigid air. This species is often seen in the town cemetery where Last Rite came from. But since she was the one who gifted this, there shouldn't be other hidden meanings to it."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "616",
+                "name": "Pogranichnik's Token",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/6743194780021/696dfa74b90f45bf919c359a.png",
+                  "name": "Pogranichnik's Token",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10255",
+                      "value": "10275"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10275"],
+                "publishedAtTs": "1768995563",
+                "caption": [
+                  {
+                    "bold": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "Raises Pogranichnik's Potential."
+                    }
+                  },
+                  {
+                    "color": "light_text_secondary",
+                    "kind": "text",
+                    "text": {
+                      "text": "An extremely tattered war banner that once stood amidst the howling cold and fluttered above the fields of snow. In battlefields populated by the living and the dead, this banner had never fallen, no matter how strong the enemy may be."
+                    }
+                  }
+                ]
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10000",
+                "children": [
+                  {
+                    "id": "10001",
+                    "children": [],
+                    "name": "1★",
+                    "type": 2,
+                    "value": "rarity_1"
+                  },
+                  {
+                    "id": "10002",
+                    "children": [],
+                    "name": "2★",
+                    "type": 2,
+                    "value": "rarity_2"
+                  },
+                  {
+                    "id": "10003",
+                    "children": [],
+                    "name": "3★",
+                    "type": 2,
+                    "value": "rarity_3"
+                  },
+                  {
+                    "id": "10004",
+                    "children": [],
+                    "name": "4★",
+                    "type": 2,
+                    "value": "rarity_4"
+                  },
+                  {
+                    "id": "10005",
+                    "children": [],
+                    "name": "5★",
+                    "type": 2,
+                    "value": "rarity_5"
+                  },
+                  {
+                    "id": "10006",
+                    "children": [],
+                    "name": "6★",
+                    "type": 2,
+                    "value": "rarity_6"
+                  }
+                ],
+                "name": "Rarity",
+                "type": 2,
+                "value": ""
+              },
+              {
+                "id": "10255",
+                "children": [
+                  {
+                    "id": "10256",
+                    "children": [],
+                    "name": "Mission Item",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10257",
+                    "children": [],
+                    "name": "Valuable",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10270",
+                    "children": [],
+                    "name": "Currency",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10271",
+                    "children": [],
+                    "name": "LTO Valuable",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10277",
+                    "children": [],
+                    "name": "Headhunting Dossier",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10273",
+                    "children": [],
+                    "name": "Crate",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10275",
+                    "children": [],
+                    "name": "Operator Token",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10274",
+                    "children": [],
+                    "name": "Sanity Meds",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10276",
+                    "children": [],
+                    "name": "Sanity Item",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10272",
+                    "children": [],
+                    "name": "Precipitation Manifest",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10280",
+                    "children": [],
+                    "name": "Precipitation Nodule",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Type",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

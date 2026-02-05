@@ -1,0 +1,2728 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333841",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "2",
+            "name": "Weapons",
+            "fatherTypeId": "1",
+            "style": 2,
+            "status": 2,
+            "position": 2,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "37",
+                "name": "Forgeborn Scathe",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/8777262936189/695f2375ffa0958ec8b8b910.png",
+                  "name": "Forgeborn Scathe",
+                  "description": null,
+                  "associate": {
+                    "id": "a2fc188efeb10de2af2da9678d333853",
+                    "name": "Forgeborn Scathe",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751476",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the razor-edged weaponry forged by Witching Hour. Special smelting processes resulted in a wholly red blade. The Arts Unit is actually a special liquefied Originium that resembles the first drop of blood shed by the Icefields."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "79",
+                "name": "Delivery Guaranteed",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251231/7192618399447/6954eb0b5c0745090f635d43.png",
+                  "name": "Delivery Guaranteed",
+                  "description": null,
+                  "associate": {
+                    "id": "5d078dc9ff25d344de5629a76c3e7b6b",
+                    "name": "Delivery Guaranteed",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751036",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A classical top-tier product of RAYTHEAN. Its prototype was deployed in the First Aggeloi War. The weapon has received numerous upgrades and optimizations since then, with the modern version offering incredible firepower that translates into greater protection and safety of the delivery."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "80",
+                "name": "Artzy Tyrannical",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251229/6743194780021/6951fc8634fc9623ec80df4d.png",
+                  "name": "Artzy Tyrannical",
+                  "description": null,
+                  "associate": {
+                    "id": "66cc7d14dddc8b486364ce2363b6adda",
+                    "name": "Artzy Tyrannical",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10208"],
+                "publishedAtTs": "1768751031",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the most popular products from Mieszko Industries from their bold Fine Artists Collab series. These firearms feature great style to match its wildly violent performance. Its popularity is proven by the premium it commands in secondary markets."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "64",
+                "name": "Chivalric Virtues",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/6959672234fc9623ec80dffa.png",
+                  "name": "Chivalric Virtues",
+                  "description": null,
+                  "associate": {
+                    "id": "32c182c9c477a89326127ade660818c7",
+                    "name": "Chivalric Virtues",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751302",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the Arts units developed by Mieszko Industries. The weapon features special D64 steel chassis and a suite of customizable modules. Its appearance reminds people of firework displays of knight majors from the past."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "63",
+                "name": "Oblivion",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251227/1585539418668/694f8cb234fc9623ec80df2c.png",
+                  "name": "Oblivion",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751308",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the Arts units developed by Witching Hour. With the exception of its basic Originium circuitries, the rest of the unit was constructed using an unknown material. Can this really be built in Talos-II?"
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "47",
+                "name": "Detonation Unit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260102/6743194780021/6957d1c2ffa0958ec8b8b826.png",
+                  "name": "Detonation Unit",
+                  "description": null,
+                  "associate": {
+                    "id": "b4a90aaea26844d605b88a8eca3d9f85",
+                    "name": "Detonation Unit",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751417",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An Arts unit developed by Northmarch Support Hub. It is, without question, the unit with the best Originium Arts conductance. Only the most capable casters could master this weapon."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "65",
+                "name": "Opus: Etch Figure",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7040428526148/695827c734fc9623ec80dfc2.png",
+                  "name": "Opus: Etch Figure",
+                  "description": null,
+                  "associate": {
+                    "id": "206398230aa76ff409dc4bf696dd0e4d",
+                    "name": "Opus: Etch Figure",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751297",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A contracted product from Portable Æthertech Labs. Features metal components hand-engraved by cræft-adepts to create etch figures that match those of the tillite parts. The result is an Arts unit with unique Arts casting circuitry."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "49",
+                "name": "Dreams of the Starry Beach",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/6959ba337fddd53c2ed6ab93.png",
+                  "name": "Dreams of the Starry Beach",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10211"],
+                "publishedAtTs": "1768751403",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A product from the elite series of Mieszko Industries. This weapon offers excellent Originium Arts conductance, making it more practical than other fashionable pieces that focused on style over substance."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "46",
+                "name": "Clannibal",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/6743194780021/69567420c4fd1a611f3e2868.png",
+                  "name": "Clannibal",
+                  "description": null,
+                  "associate": {
+                    "id": "554ebf0c7a815506538b20bf01f3c279",
+                    "name": "Clannibal",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10208"],
+                "publishedAtTs": "1768751279",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A special gun manufactured by RAYTHEAN Industries. This experimental weapon is extremely difficult to use. Only a limited number of prototypes were released to the arms market"
+                    }
+                  },
+                  {
+                    "italic": true,
+                    "kind": "text",
+                    "text": {
+                      "text": "."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "76",
+                "name": "Wedge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/1585539418668/695bc1977fddd53c2ed6abe2.png",
+                  "name": "Wedge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10208"],
+                "publishedAtTs": "1768751052",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A legendary work of Northmarch Support Hub that perfectly embodies the style and virtues of Northmarch weapons. Features devastating firepower, total reliability, and absolutely abysmal handling and recoil."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "67",
+                "name": "Navigator",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/6959987fc4fd1a611f3e28c4.png",
+                  "name": "Navigator",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10208"],
+                "publishedAtTs": "1768751285",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped my Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A novel concept of the year by Mieszko Industries. Let's use it to celebrate the memories of the great Navigator who led us in our unending jouney across Talos-II."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "75",
+                "name": "JET",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251230/6743194780021/6953cc9b9931ee14c9cbb5ad.png",
+                  "name": "JET",
+                  "description": null,
+                  "associate": {
+                    "id": "7ea6fda78e8ed859112768f41d294135",
+                    "name": "JET",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10212"],
+                "publishedAtTs": "1768751058",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An experimental weapon manufactured to the highest standards of Northmarch Support Hub. The prototype was designed by the now-disbanded Aerospace Research Center. An array of Originium compression jet engines gives this lance its turbo performance."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "77",
+                "name": "Valiant",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/6959685cffa0958ec8b8b866.png",
+                  "name": "Valiant",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10212"],
+                "publishedAtTs": "1768751046",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A mid-tier product of Mieszko Industries. The lance is rare yet highly sought after, thanks to vintage designs that make it resemble a ballista bolt as well as its effective field performance."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "68",
+                "name": "Mountain Bearer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/6743194780021/6958bcdb9931ee14c9cbb5f7.png",
+                  "name": "Mountain Bearer",
+                  "description": null,
+                  "associate": {
+                    "id": "b66dd0f5e61f2a3231f6faf661daba62",
+                    "name": "Mountain Bearer",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10212"],
+                "publishedAtTs": "1768751258",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An experimental lance developed by Hongshan Swordmancers. The shaft of the weapon was forged using a special alloy to achieve both strength and resilience."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "74",
+                "name": "Sundered Prince",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/695a336b3d5589184a985000.png",
+                  "name": "Sundered Prince",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10209"],
+                "publishedAtTs": "1768751220",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A special limited-release weapon from the Witching Hour. The appearance of the greatsword is probably based on an ancient legend. It seems capable of ripping wails of anguish out of the realm of dreams."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "45",
+                "name": "Former Finery",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/695a44d69931ee14c9cbb641.png",
+                  "name": "Former Finery",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10209"],
+                "publishedAtTs": "1768751426",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A high-end product of Northmarch Support Hub. This chain cutter was designed with older technology. Though no longer mass produced, the weapon continues to prove its reliability in the field."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "73",
+                "name": "Exemplar",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/2020668606652/69564370815b04cb0d10545c.png",
+                  "name": "Exemplar",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10209"],
+                "publishedAtTs": "1768751227",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "The latest standalone product from Mieszko Industries. Designs were based on a relic unearthed by the Cabal of Tranquility. The weapon itself was furnished with highly classified technologies, allowing it to cut through almost anything with ease."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "70",
+                "name": "Khravengger",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/695a1644c4fd1a611f3e28c8.png",
+                  "name": "Khravengger",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10209"],
+                "publishedAtTs": "1768751247",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities. "
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A strange weapon released by Witching Hour. The blade body is chiseled out of an ordinary-looking block of ice, but its surface is fused with a special form of Originium Arts that made it literally indestructible. "
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "66",
+                "name": "Thunderberge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251231/9299653219345/69553bc1ffa0958ec8b8b7ea.png",
+                  "name": "Thunderberge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10209"],
+                "publishedAtTs": "1768751291",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "-A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "-A specialized weapon manufactured by Endfield. The flamberge was furnished with interlaced Originium circuitry to enhance essence performance. This setup was inspired by various phenomenon observed on Talos."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "48",
+                "name": "White Night Nova",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251229/6743194780021/69524e7fffa0958ec8b8b7b2.png",
+                  "name": "White Night Nova",
+                  "description": null,
+                  "associate": {
+                    "id": "d160327332e2c2ef4845d6594dcb830a",
+                    "name": "White Night Nova",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751411",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the weapons from the furnaces of Fort Forgefane. The grip was constructed using a special rod drawing process to enhance force damping and grip. The blade itself was forged with a rare mineral quarried from the wildlands."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "72",
+                "name": "Eminent Repute",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/2020668606652/695b790534fc9623ec80e020.png",
+                  "name": "Eminent Repute",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751236",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A high-end sword released by Mieszko Industries. The finely sculpted and engraved blade also offered reliable performance. This weapon was well-received by TGCC elites and upper society."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "78",
+                "name": "Thermite Cutter",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251231/6743194780021/69551e615c0745090f635d49.png",
+                  "name": "Thermite Cutter",
+                  "description": null,
+                  "associate": {
+                    "id": "9ebcdee862c8f6293f45d4f0458c5244",
+                    "name": "Thermite Cutter",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751042",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A basic product from the Pioneer-series released by Northmarch Support Hub. The Mk IV thermal cutter was constructed using patented thermal materials and delivers powerful cutting performance. Positively reviewed by many UWST crewmates."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "71",
+                "name": "Rapid Ascent",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/1585539418668/695bb446ffa0958ec8b8b8ad.png",
+                  "name": "Rapid Ascent",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751241",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A high-end ornamental sword from Hongshan Swordmancers. The weapon is often used as an award for outstanding individuals. The name is finalized after an internal voting process in Hongshan Academy of Sciences."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "69",
+                "name": "Umbral Torch",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260109/7040428526148/6960a6c9bc25979e226924f2.png",
+                  "name": "Umbral Torch",
+                  "description": null,
+                  "associate": {
+                    "id": "8182e1845511b4c3c880eff94d757c8a",
+                    "name": "Umbral Torch",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751253",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A next-gen lightweight personal defense solution released by RAYTHEAN Industries. The sword has a special alloy blade and proved quite popular amongst certain \"professionals\"."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "62",
+                "name": "Never Rest",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/1585539418668/695b8c365c0745090f635dfa.png",
+                  "name": "Never Rest",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751313",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon from the furnaces of Fort Forgefane. Though it has undergone multiple rounds of recasting, the subsumed edge is still imbued with an intimidating force of domination."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "61",
+                "name": "Grand Vision",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/9890336793612/69596bceffa0958ec8b8b867.png",
+                  "name": "Grand Vision",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10006"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10006", "10210"],
+                "publishedAtTs": "1768751319",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A quality weapon manufactured by Endfield Industries. Innovations include using an experimental Originium-based material as the blade body to give it excellent energy conductivity."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "95",
+                "name": "OBJ Arts Identifier",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/695954185c0745090f635db7.png",
+                  "name": "OBJ Arts Identifier",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10211"],
+                "publishedAtTs": "1768751501",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. Power is determined by the user's mastery in the Originium Arts."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "98",
+                "name": "Freedom to Proselytize",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/695945777fddd53c2ed6ab88.png",
+                  "name": "Freedom to Proselytize",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10211"],
+                "publishedAtTs": "1768750993",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An Arts Unit designed by Mieszko Industries for Cabal of Tranquility. Every step from product design, verification, manufacturing, to tuning has been carried out under the guidance of a Cabal cleric."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "97",
+                "name": "Cohesive Traction",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/69594b497fddd53c2ed6ab8a.png",
+                  "name": "Cohesive Traction",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10212"],
+                "publishedAtTs": "1768751486",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A classical product of RAYTHEAN's customizable manufacturing process. The weapon is based on a standard military lance, and features a diverse suite of special functions and customizable aesthetic components."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "96",
+                "name": "Monaihe",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/695941205c0745090f635db4.png",
+                  "name": "Monaihe",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10211"],
+                "publishedAtTs": "1768751493",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An Arts unit developed by Hongshan Swordmancers and made using Xiranite. Given the fickle nature of this rare material, only wielders capable of the highest levels of focus and precision could wield this Arts unit effectively."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "94",
+                "name": "Stanza of Memorials",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7192618399447/69592da8815b04cb0d1054c8.png",
+                  "name": "Stanza of Memorials",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10211"],
+                "publishedAtTs": "1768751516",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the strange-looking Arts units released by Witching Hour. Its counter-intuitive designs include a deliberately reduced Originium Arts compatibility just to highlight the dark logic of Ancient Teekaz witchcraft."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "93",
+                "name": "Chimeric Justice",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/69595a1c9931ee14c9cbb62d.png",
+                  "name": "Chimeric Justice",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10212"],
+                "publishedAtTs": "1768751524",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An experimental lance designed by Endfield Industries with a very limited production run. This weapon features modular designs to support dismantling and reassembling in complex and hostile battlefield conditions."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "92",
+                "name": "Twelve Questions",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7192618399447/69580f363d5589184a984fc1.png",
+                  "name": "Twelve Questions",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768751532",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A razor sharp sword born of the wildlands. Different weaponsmiths would apply decorative wrappings on the weapon in very different ways."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "91",
+                "name": "OBJ Razorhorn",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/7192618399447/6959618e34fc9623ec80dff9.png",
+                  "name": "OBJ Razorhorn",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10212"],
+                "publishedAtTs": "1768751539",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. Wielders are free to make their own adjustments to the spearhead module."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "90",
+                "name": "Wild Wanderer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7192618399447/695806d4c4fd1a611f3e288a.png",
+                  "name": "Wild Wanderer",
+                  "description": null,
+                  "associate": {
+                    "id": "2b97ff8a90a560307bf2c94bfb27c94c",
+                    "name": "Wild Wanderer",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10211"],
+                "publishedAtTs": "1768751550",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "An Arts unit developed by RAYTHEAN Industries. This particular weapon is known for its minimalist and lightweight designs. Making it requires only half of the materials needed to produce a standard-issue Arts unit."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "89",
+                "name": "Rational Farewell",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/6743194780021/695a427bc4fd1a611f3e28cd.png",
+                  "name": "Rational Farewell",
+                  "description": null,
+                  "associate": {
+                    "id": "7206719906e32db051ed6cba0bb0e8c3",
+                    "name": "Rational Farewell",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10208"],
+                "publishedAtTs": "1768751565",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "RAYTHEAN Industries developed this high energy pistol for frontiers use. Decent reliability in adverse environments makes this a standard-issue weapon amongst wildland explorers."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "88",
+                "name": "Fortmaker",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/6743194780021/695a3e5d815b04cb0d1054db.png",
+                  "name": "Fortmaker",
+                  "description": null,
+                  "associate": {
+                    "id": "e17c0309213d793af7e3cdd44fc371d2",
+                    "name": "Fortmaker",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768750960",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the weapons made by Fort Forgefane. The sword features traditional architecture that made it extremely durable and sturdy. The thick, heavy blade left countless scars upon the permafrost as the frontlines shifted with the times."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "87",
+                "name": "OBJ Velocitous",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/6743194780021/695b961a5c0745090f635dfd.png",
+                  "name": "OBJ Velocitous",
+                  "description": null,
+                  "associate": {
+                    "id": "f0b1e7a2328545796cc0c2f7059bb814",
+                    "name": "OBJ Velocitous",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10208"],
+                "publishedAtTs": "1768750965",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. The weapon is constructed using lightweight, practical, and durable materials."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "86",
+                "name": "OBJ Heavy Burden",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/2452982252316/6958c5fa815b04cb0d10549c.png",
+                  "name": "OBJ Heavy Burden",
+                  "description": null,
+                  "associate": {
+                    "id": "8523a3816bdbee0e98378020a3fcc050",
+                    "name": "OBJ Heavy Burden",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10209"],
+                "publishedAtTs": "1768750971",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. The weapon can be furnished with various modules according to the needs of actual battle."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "43",
+                "name": "Finchaser 3.0",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260104/2452982252316/695a096d34fc9623ec80dfff.png",
+                  "name": "Finchaser 3.0",
+                  "description": null,
+                  "associate": {
+                    "id": "db139a2c484555ad2fd7195d6e26bdfe",
+                    "name": "Finchaser 3.0",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768751438",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "The flagship product of the Outdoor Explorer series of Northmarch Support Hub. Rigged outdoor design approaches and portability made it one of the top recommendations by many explorers and hobby anglers."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "85",
+                "name": "Sundering Steel",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260106/2452982252316/695cb1b234fc9623ec80e057.png",
+                  "name": "Sundering Steel",
+                  "description": null,
+                  "associate": {
+                    "id": "70ad85b123f1e2951d0ccaa9cc91a74d",
+                    "name": "Sundering Steel",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768750985",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the elite weaponry manufactured by Endfield for their operators. The sword features a seamless grip-and-guard hilt and stress-triggered energy storage mechanisms to enhance its damage potential."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "84",
+                "name": "Ancient Canal",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260102/2452982252316/695768b29931ee14c9cbb5da.png",
+                  "name": "Ancient Canal",
+                  "description": null,
+                  "associate": {
+                    "id": "bcbbdc567a6669180d8fb3f04b2764f0",
+                    "name": "Ancient Canal",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10209"],
+                "publishedAtTs": "1768751573",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A quality greatsword manufactured by Hongshan Swordmancers. When compared to other greatswords, this one is lighter but just as deadly."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "83",
+                "name": "Aspirant",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260106/6743194780021/695d08d05c0745090f635e35.png",
+                  "name": "Aspirant",
+                  "description": null,
+                  "associate": {
+                    "id": "fdfe839292c5cd09cf004e2b46a51d64",
+                    "name": "Aspirant",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768751015",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A first tier weapon released by Hongshan Swordmancers and also the only one that achieved decent popularity in the market. Many copies have been found in the wildlands, though."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "82",
+                "name": "Finishing Call",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/2452982252316/6955eadf7fddd53c2ed6ab26.png",
+                  "name": "Finishing Call",
+                  "description": null,
+                  "associate": {
+                    "id": "94e1b2da1900c1dcab313abf4c3ff144",
+                    "name": "Finishing Call",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10209"],
+                "publishedAtTs": "1768751020",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A special Mieszko Industries weapon with a limited production run. This was the final design of the collaborative project pursued by the arms company and the Knights Major expert Cromwell."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "81",
+                "name": "OBJ Edge of Lightness",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260107/2452982252316/695e0b11815b04cb0d105566.png",
+                  "name": "OBJ Edge of Lightness",
+                  "description": null,
+                  "associate": {
+                    "id": "0db581027783e76ea934a59de8e93c6d",
+                    "name": "OBJ Edge of Lightness",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10210"],
+                "publishedAtTs": "1768751025",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. The hilt features auxiliary modules that can be taken off."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "60",
+                "name": "Seeker of Dark Lung",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251231/2452982252316/695498565c0745090f635d3e.png",
+                  "name": "Seeker of Dark Lung",
+                  "description": null,
+                  "associate": {
+                    "id": "70a3e5bec50c830be1ea0e08c7d8139e",
+                    "name": "Seeker of Dark Lung",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10209"],
+                "publishedAtTs": "1768751326",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard greatsword developed by Hongshan Swordmancers. The weapon is furnished with a new specialized coating that offers excellent protection, even if the weapon were to be used in extreme and hostile environments."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "59",
+                "name": "Opus: The Living",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20251227/2452982252316/694eec8c3d5589184a984f2b.png",
+                  "name": "Opus: The Living",
+                  "description": null,
+                  "associate": {
+                    "id": "77eaad93c9cbca0b93eb751096f25249",
+                    "name": "Opus: The Living",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10005"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10005", "10208"],
+                "publishedAtTs": "1768751331",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A contracted project developed by Portable Æthertech Labs. Cræft-adepts boldly furnished this weapon lined with relicolith, upon which special patterns have been engraved."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "58",
+                "name": "Wave Tide",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/6743194780021/695f6a8f3d5589184a9850ad.png",
+                  "name": "Wave Tide",
+                  "description": null,
+                  "associate": {
+                    "id": "3317a144172918cd4eb563d82c183e75",
+                    "name": "Wave Tide",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10210"],
+                "publishedAtTs": "1768751339",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A mid-tier product of Mieszko Industries. The sword features chic, avant garde designs plus amazing cost performance index, making it one of the most fashionable choices of the year in the TGCC."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "57",
+                "name": "Long Road",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/8777262936189/695f57b13d5589184a9850a3.png",
+                  "name": "Long Road",
+                  "description": null,
+                  "associate": {
+                    "id": "06321449b030edf3d7b35647de06aad3",
+                    "name": "Long Road",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10208"],
+                "publishedAtTs": "1768751266",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard-issue firearm made by Fort Forgefane to arm the common soldiery. This weapon was extremely popular due to its simplified firing mechanism and incredible stopping power."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "56",
+                "name": "Howling Guard",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/8777262936189/695f37635c0745090f635e71.png",
+                  "name": "Howling Guard",
+                  "description": null,
+                  "associate": {
+                    "id": "26fcb2fc51763fe854487b11e6c77ab0",
+                    "name": "Howling Guard",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10208"],
+                "publishedAtTs": "1768751344",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A mid-tier product of Mieszko Industries. This pistol is a perfect combination of vintage Lateran designs with modern industrial construction. A blue metallic coating gave the finishing touches for this unique work of art."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "55",
+                "name": "Pathfinder's Beacon",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/6743194780021/695f587f7fddd53c2ed6ac4b.png",
+                  "name": "Pathfinder's Beacon",
+                  "description": null,
+                  "associate": {
+                    "id": "6e5bc7e0d57ac37559065cc82f53d8ff",
+                    "name": "Pathfinder's Beacon",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10212"],
+                "publishedAtTs": "1768751354",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the advanced weaponry manufactured by Endfield for their operators. This streamlined and lightweight weapon is well-balanced and would remind many people of the standard-issue lances once wielded by Vanguard class operators of Rhodes Island."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "54",
+                "name": "Contingent Measure",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260105/9299653219345/695b856effa0958ec8b8b88e.png",
+                  "name": "Contingent Measure",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10210"],
+                "publishedAtTs": "1768751366",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "-A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "-One of the advanced weaponry manufactured by Endfield for their operators. Minimalist modular architecture resulted in a lightweight weapon with excellent balance and handling. The blade itself is extremely durable."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "53",
+                "name": "Hypernova Auto",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/6743194780021/695f51d034fc9623ec80e0ad.png",
+                  "name": "Hypernova Auto",
+                  "description": null,
+                  "associate": {
+                    "id": "ccc3b65a8207dc28230d79c3e6712dd6",
+                    "name": "Hypernova Auto",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10211"],
+                "publishedAtTs": "1768751373",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the advanced weaponry manufactured by Endfield for their operators. The Endfield arsenal adopted Andre's blueprints to create a drone capable of storing Arts so that they can be quickly cast in emergencies."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "52",
+                "name": "Fluorescent Roc",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260107/6743194780021/695e5bdd34fc9623ec80e099.png",
+                  "name": "Fluorescent Roc",
+                  "description": null,
+                  "associate": {
+                    "id": "9ded3030a865f308d814abeac16b54ec",
+                    "name": "Fluorescent Roc",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10211"],
+                "publishedAtTs": "1768751380",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the Arts units manufactured by Endfield Industries. It sports bold structural designs, superb Arts conductance, but is incredibly difficult to control. Mastering this weapon was considered a proof of competency amongst operators."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "51",
+                "name": "Aggeloslayer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7192618399447/6957f82d9931ee14c9cbb5ee.png",
+                  "name": "Aggeloslayer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10212"],
+                "publishedAtTs": "1768751387",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard-issue lance made by Fort Forgefane to arm the common soldiery. Furnished with an extremely sharp tip specifically designed for fighting the Aggeloi."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "50",
+                "name": "Quencher",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260103/7192618399447/6957eda0c4fd1a611f3e2888.png",
+                  "name": "Quencher",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10209"],
+                "publishedAtTs": "1768751396",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A standard greatsword made by Fort Forgefane. Although very few have mastered this weapon, the weapon is easy to wield and has been the most popular choice amongst raw recruits for many years."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "44",
+                "name": "Industry 0.1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/7192618399447/69568acf7fddd53c2ed6ab38.png",
+                  "name": "Industry 0.1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10004"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10004", "10209"],
+                "publishedAtTs": "1768751432",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon commonly seen in the frontiers. No one knows who came up with the basic designs. This particular piece can be easily produced by common industrial machinery."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "42",
+                "name": "Darhoff 7",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/5377252742477/695fad4834fc9623ec80e0ca.png",
+                  "name": "Darhoff 7",
+                  "description": null,
+                  "associate": {
+                    "id": "44e1128c37bf8156fc66f339f2480edc",
+                    "name": "Darhoff 7",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10003"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10209"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10003", "10209"],
+                "publishedAtTs": "1768751444",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is designed by Endfield Arsenal Engineer Darhoff. Its designs offer a viable option for those taking part in assault operations."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "41",
+                "name": "Opero 77",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260108/5377252742477/695facceffa0958ec8b8b934.png",
+                  "name": "Opero 77",
+                  "description": null,
+                  "associate": {
+                    "id": "7aeb5b0e8bd8d49a1911280616f1fce3",
+                    "name": "Opero 77",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10003"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10212"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10003", "10212"],
+                "publishedAtTs": "1768751450",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is personally designed by senior Endfield Arsenal Engineer Opero. It can be wielded effectively by even newly minted Endfield operators, thanks to its ergonomic designs."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "40",
+                "name": "Jiminy 12",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/5377252742477/695676e8815b04cb0d105462.png",
+                  "name": "Jiminy 12",
+                  "description": null,
+                  "associate": {
+                    "id": "60c1b5283a0d13ef7000797687656f0d",
+                    "name": "Jiminy 12",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10003"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10211"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10003", "10211"],
+                "publishedAtTs": "1768751457",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is designed by Endfield Arsenal Engineer Jiminy. The Arts Unit is extremely popular with newly minted Endfield operators."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "39",
+                "name": "Peco 5",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/5377252742477/695652cf5c0745090f635d60.png",
+                  "name": "Peco 5",
+                  "description": null,
+                  "associate": {
+                    "id": "3985d7772255bd30802f9342d8cc9f48",
+                    "name": "Peco 5",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10003"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10208"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10003", "10208"],
+                "publishedAtTs": "1768751463",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is designed by Endfield Arsenal Engineer Peco. Mastery of etched ammo and firearms is no longer a skill exclusive to the Sankta."
+                    }
+                  }
+                ]
+              },
+              {
+                "itemId": "38",
+                "name": "Tarr 11",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260101/5377252742477/69564fb634fc9623ec80df9f.png",
+                  "name": "Tarr 11",
+                  "description": null,
+                  "associate": {
+                    "id": "43cfa19fb2698d35514f5476a2010df3",
+                    "name": "Tarr 11",
+                    "type": "weapon",
+                    "dotType": ""
+                  },
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10000",
+                      "value": "10003"
+                    },
+                    {
+                      "subTypeId": "10207",
+                      "value": "10210"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10003", "10210"],
+                "publishedAtTs": "1768751469",
+                "caption": [
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "A weapon equipped by Endfield operators to significantly boost their combat capabilities."
+                    }
+                  },
+                  {
+                    "kind": "text",
+                    "text": {
+                      "text": "One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is designed by Endfield Arsenal Engineer Tarr. It is often the very first weapon of many field operators."
+                    }
+                  }
+                ]
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10000",
+                "children": [
+                  {
+                    "id": "10001",
+                    "children": [],
+                    "name": "1★",
+                    "type": 2,
+                    "value": "rarity_1"
+                  },
+                  {
+                    "id": "10002",
+                    "children": [],
+                    "name": "2★",
+                    "type": 2,
+                    "value": "rarity_2"
+                  },
+                  {
+                    "id": "10003",
+                    "children": [],
+                    "name": "3★",
+                    "type": 2,
+                    "value": "rarity_3"
+                  },
+                  {
+                    "id": "10004",
+                    "children": [],
+                    "name": "4★",
+                    "type": 2,
+                    "value": "rarity_4"
+                  },
+                  {
+                    "id": "10005",
+                    "children": [],
+                    "name": "5★",
+                    "type": 2,
+                    "value": "rarity_5"
+                  },
+                  {
+                    "id": "10006",
+                    "children": [],
+                    "name": "6★",
+                    "type": 2,
+                    "value": "rarity_6"
+                  }
+                ],
+                "name": "Rarity",
+                "type": 2,
+                "value": ""
+              },
+              {
+                "id": "10207",
+                "children": [
+                  {
+                    "id": "10210",
+                    "children": [],
+                    "name": "Sword",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10209",
+                    "children": [],
+                    "name": "Greatsword",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10208",
+                    "children": [],
+                    "name": "Handcannon",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10211",
+                    "children": [],
+                    "name": "Arts Unit",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10212",
+                    "children": [],
+                    "name": "Polearm",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Type",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

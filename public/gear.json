@@ -1,0 +1,4416 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333843",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "4",
+            "name": "Gear",
+            "fatherTypeId": "1",
+            "style": 3,
+            "status": 2,
+            "position": 6,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "377",
+                "name": "Bonekrusha Figurine",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf4141855c182ecdc1a6.png",
+                  "name": "Bonekrusha Figurine",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964136",
+                "caption": []
+              },
+              {
+                "itemId": "376",
+                "name": "Bonekrusha Mask T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcfbcba9a40b68bcda56a.png",
+                  "name": "Bonekrusha Mask T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964142",
+                "caption": []
+              },
+              {
+                "itemId": "375",
+                "name": "Bonekrusha Mask",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcfe3d09e72e95f958ba1.png",
+                  "name": "Bonekrusha Mask",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964231",
+                "caption": []
+              },
+              {
+                "itemId": "374",
+                "name": "Bonekrusha Poncho T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd035c15709c5bd08bfd8.png",
+                  "name": "Bonekrusha Poncho T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964236",
+                "caption": []
+              },
+              {
+                "itemId": "373",
+                "name": "Bonekrusha Poncho",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd007dd3a6edec975ed91.png",
+                  "name": "Bonekrusha Poncho",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964245",
+                "caption": []
+              },
+              {
+                "itemId": "372",
+                "name": "Bonekrusha Heavy Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf70b24c2cc3c2097616.png",
+                  "name": "Bonekrusha Heavy Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964251",
+                "caption": []
+              },
+              {
+                "itemId": "371",
+                "name": "Bonekrusha Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf9729caab7ab1be2416.png",
+                  "name": "Bonekrusha Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964255",
+                "caption": []
+              },
+              {
+                "itemId": "370",
+                "name": "Æthertech Stabilizer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da7e4484c700e816d217d.png",
+                  "name": "Æthertech Stabilizer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964266",
+                "caption": []
+              },
+              {
+                "itemId": "369",
+                "name": "Æthertech Analysis Band",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da80be3acca11e53da620.png",
+                  "name": "Æthertech Analysis Band",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964272",
+                "caption": []
+              },
+              {
+                "itemId": "368",
+                "name": "Æthertech Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da82922b3d4859079cca9.png",
+                  "name": "Æthertech Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964278",
+                "caption": []
+              },
+              {
+                "itemId": "367",
+                "name": "Æthertech Plating",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da848dcdae0e84e9869a9.png",
+                  "name": "Æthertech Plating",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964284",
+                "caption": []
+              },
+              {
+                "itemId": "366",
+                "name": "LYNX Aegis Injector",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd73465ffe70e9535fabe.png",
+                  "name": "LYNX Aegis Injector",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964291",
+                "caption": []
+              },
+              {
+                "itemId": "365",
+                "name": "LYNX Slab",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8178230f1b03cc50a1e.png",
+                  "name": "LYNX Slab",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964296",
+                "caption": []
+              },
+              {
+                "itemId": "364",
+                "name": "LYNX Connector T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd75c7a9d81effdbeee00.png",
+                  "name": "LYNX Connector T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964300",
+                "caption": []
+              },
+              {
+                "itemId": "363",
+                "name": "LYNX Connector",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd77a479fef709c2c3219.png",
+                  "name": "LYNX Connector",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964317",
+                "caption": []
+              },
+              {
+                "itemId": "362",
+                "name": "LYNX Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7a8bc25979e22692621.png",
+                  "name": "LYNX Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964323",
+                "caption": []
+              },
+              {
+                "itemId": "361",
+                "name": "LYNX Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7d6dcdae0e84e9869b1.png",
+                  "name": "LYNX Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964329",
+                "caption": []
+              },
+              {
+                "itemId": "360",
+                "name": "LYNX Cuirass",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7925086e19cbe3e0e8f.png",
+                  "name": "LYNX Cuirass",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964335",
+                "caption": []
+              },
+              {
+                "itemId": "359",
+                "name": "LYNX Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7f9a1c4dd69df7d69e3.png",
+                  "name": "LYNX Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964340",
+                "caption": []
+              },
+              {
+                "itemId": "358",
+                "name": "Swordmancer Flint",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df160a4537379deaf3479.png",
+                  "name": "Swordmancer Flint",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964344",
+                "caption": []
+              },
+              {
+                "itemId": "357",
+                "name": "Swordmancer TAC Fists",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df20d519331a97920f802.png",
+                  "name": "Swordmancer TAC Fists",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964350",
+                "caption": []
+              },
+              {
+                "itemId": "356",
+                "name": "Swordmancer TAC Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df268816a3c0f65fe8a9f.png",
+                  "name": "Swordmancer TAC Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964354",
+                "caption": []
+              },
+              {
+                "itemId": "355",
+                "name": "Swordmancer Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df191859d9d5c90cf7641.png",
+                  "name": "Swordmancer Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964360",
+                "caption": []
+              },
+              {
+                "itemId": "354",
+                "name": "Bonekrusha Figurine T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf0b22b3d4859079ccae.png",
+                  "name": "Bonekrusha Figurine T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964365",
+                "caption": []
+              },
+              {
+                "itemId": "353",
+                "name": "Pulser Labs Disruptor Suit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df0d5f47b48c6aa787a15.png",
+                  "name": "Pulser Labs Disruptor Suit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964370",
+                "caption": []
+              },
+              {
+                "itemId": "352",
+                "name": "Type 50 Yinglung Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deadf8230f1b03cc50a25.png",
+                  "name": "Type 50 Yinglung Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964375",
+                "caption": []
+              },
+              {
+                "itemId": "351",
+                "name": "Redeemer Tag",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd2a6ee53304b0008b540.png",
+                  "name": "Redeemer Tag",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964380",
+                "caption": []
+              },
+              {
+                "itemId": "350",
+                "name": "Redeemer Tag T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd356a3dc39acc046930e.png",
+                  "name": "Redeemer Tag T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964384",
+                "caption": []
+              },
+              {
+                "itemId": "349",
+                "name": "Redeemer Seal",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd39a3aee85a90709d6da.png",
+                  "name": "Redeemer Seal",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964392",
+                "caption": []
+              },
+              {
+                "itemId": "348",
+                "name": "Redeemer Seal T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd3cd303281de3f074f86.png",
+                  "name": "Redeemer Seal T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964455",
+                "caption": []
+              },
+              {
+                "itemId": "347",
+                "name": "Type 50 Yinglung Light Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb8f29caab7ab1be241d.png",
+                  "name": "Type 50 Yinglung Light Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964501",
+                "caption": []
+              },
+              {
+                "itemId": "345",
+                "name": "Type 50 Yinglung Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dea3429caab7ab1be241c.png",
+                  "name": "Type 50 Yinglung Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964506",
+                "caption": []
+              },
+              {
+                "itemId": "344",
+                "name": "Type 50 Yinglung Radar",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696debb31d54a250d5f4517b.png",
+                  "name": "Type 50 Yinglung Radar",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964511",
+                "caption": []
+              },
+              {
+                "itemId": "343",
+                "name": "Type 50 Yinglung Knife",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb64a468ebd613856658.png",
+                  "name": "Type 50 Yinglung Knife",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964515",
+                "caption": []
+              },
+              {
+                "itemId": "342",
+                "name": "Type 50 Yinglung Knife T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb1147aad8c833daeea0.png",
+                  "name": "Type 50 Yinglung Knife T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964520",
+                "caption": []
+              },
+              {
+                "itemId": "341",
+                "name": "Pulser Labs Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df0f64b089c6bf87606f6.png",
+                  "name": "Pulser Labs Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964538",
+                "caption": []
+              },
+              {
+                "itemId": "340",
+                "name": "Tide Fall Light Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dedd26c326a83dea2eada.png",
+                  "name": "Tide Fall Light Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964545",
+                "caption": []
+              },
+              {
+                "itemId": "339",
+                "name": "Tide Surge Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dee1d303281de3f074f8c.png",
+                  "name": "Tide Surge Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964565",
+                "caption": []
+              },
+              {
+                "itemId": "338",
+                "name": "Pulser Labs Calibrator",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df112433a5f03544128e4.png",
+                  "name": "Pulser Labs Calibrator",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964496",
+                "caption": []
+              },
+              {
+                "itemId": "337",
+                "name": "Eternal Xiranite Auxiliary Arm",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd3067a9d81effdbeedfe.png",
+                  "name": "Eternal Xiranite Auxiliary Arm",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964912",
+                "caption": []
+              },
+              {
+                "itemId": "336",
+                "name": "Eternal Xiranite Power Core T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd35f6c326a83dea2ead4.png",
+                  "name": "Eternal Xiranite Power Core T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964916",
+                "caption": []
+              },
+              {
+                "itemId": "335",
+                "name": "Mordvolt Resistant Battery T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defa5682c1955b8638199.png",
+                  "name": "Mordvolt Resistant Battery T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964921",
+                "caption": []
+              },
+              {
+                "itemId": "334",
+                "name": "Eternal Xiranite Power Core",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd37cc9b3cd796e6b9019.png",
+                  "name": "Eternal Xiranite Power Core",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964928",
+                "caption": []
+              },
+              {
+                "itemId": "333",
+                "name": "Mordvolt Resistant Wrench T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df07a7c0413b3124ca55d.png",
+                  "name": "Mordvolt Resistant Wrench T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964933",
+                "caption": []
+              },
+              {
+                "itemId": "332",
+                "name": "Eternal Xiranite Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd326dd3a6edec975ed93.png",
+                  "name": "Eternal Xiranite Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964938",
+                "caption": []
+              },
+              {
+                "itemId": "331",
+                "name": "Mordvolt Resistant Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deff522b3d4859079ccb6.png",
+                  "name": "Mordvolt Resistant Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964944",
+                "caption": []
+              },
+              {
+                "itemId": "330",
+                "name": "Eternal Xiranite Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd342a3dc39acc046930d.png",
+                  "name": "Eternal Xiranite Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964949",
+                "caption": []
+              },
+              {
+                "itemId": "329",
+                "name": "Mordvolt Resistant Vest T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df039c15709c5bd08bfde.png",
+                  "name": "Mordvolt Resistant Vest T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964954",
+                "caption": []
+              },
+              {
+                "itemId": "328",
+                "name": "Eternal Xiranite Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd2c74d84f24c1e9557c5.png",
+                  "name": "Eternal Xiranite Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964959",
+                "caption": []
+              },
+              {
+                "itemId": "327",
+                "name": "Mordvolt Insulation Battery T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deca2c15709c5bd08bfdd.png",
+                  "name": "Mordvolt Insulation Battery T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964571",
+                "caption": []
+              },
+              {
+                "itemId": "326",
+                "name": "Turbid Cutting Torch",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dee496fc80a6e96441e6d.png",
+                  "name": "Turbid Cutting Torch",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964577",
+                "caption": []
+              },
+              {
+                "itemId": "325",
+                "name": "Hanging River O2 Tube",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ded29d09866eeaf56a8f3.png",
+                  "name": "Hanging River O2 Tube",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964585",
+                "caption": []
+              },
+              {
+                "itemId": "324",
+                "name": "Mordvolt Insulation Wrench T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deeda65ffe70e9535fac2.png",
+                  "name": "Mordvolt Insulation Wrench T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964589",
+                "caption": []
+              },
+              {
+                "itemId": "323",
+                "name": "Mordvolt Insulation Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696decfbdcdae0e84e9869b4.png",
+                  "name": "Mordvolt Insulation Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964594",
+                "caption": []
+              },
+              {
+                "itemId": "322",
+                "name": "Mordvolt Insulation Vest T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded490920b30f43778da6.png",
+                  "name": "Mordvolt Insulation Vest T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964598",
+                "caption": []
+              },
+              {
+                "itemId": "321",
+                "name": "Mordvolt Insulation Vest T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded764e40f4ca8347a4f7.png",
+                  "name": "Mordvolt Insulation Vest T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964604",
+                "caption": []
+              },
+              {
+                "itemId": "320",
+                "name": "Roving MSGR Gyro T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696e0bcae2418a3fd9e29386.png",
+                  "name": "Roving MSGR Gyro T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964611",
+                "caption": []
+              },
+              {
+                "itemId": "319",
+                "name": "Roving MSGR Flashlight T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1ac5f36488577aae7a3.png",
+                  "name": "Roving MSGR Flashlight T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964671",
+                "caption": []
+              },
+              {
+                "itemId": "318",
+                "name": "Roving MSGR Flashlight T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1c68a63ab649db93f91.png",
+                  "name": "Roving MSGR Flashlight T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964675",
+                "caption": []
+              },
+              {
+                "itemId": "317",
+                "name": "Roving MSGR Fists T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1de479fef709c2c321b.png",
+                  "name": "Roving MSGR Fists T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964679",
+                "caption": []
+              },
+              {
+                "itemId": "316",
+                "name": "Roving MSGR Jacket T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df20341855c182ecdc1aa.png",
+                  "name": "Roving MSGR Jacket T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964685",
+                "caption": []
+              },
+              {
+                "itemId": "315",
+                "name": "Armored MSGR Gyro T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dada15f36488577aae79b.png",
+                  "name": "Armored MSGR Gyro T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964698",
+                "caption": []
+              },
+              {
+                "itemId": "314",
+                "name": "Armored MSGR Flashlight T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dab6d303281de3f074f84.png",
+                  "name": "Armored MSGR Flashlight T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964703",
+                "caption": []
+              },
+              {
+                "itemId": "313",
+                "name": "Armored MSGR Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dabfbdcdae0e84e9869aa.png",
+                  "name": "Armored MSGR Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964711",
+                "caption": []
+              },
+              {
+                "itemId": "312",
+                "name": "Frontiers Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd444433a5f03544128e0.png",
+                  "name": "Frontiers Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964720",
+                "caption": []
+              },
+              {
+                "itemId": "311",
+                "name": "Armored MSGR Gloves T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dad10a468ebd61385664f.png",
+                  "name": "Armored MSGR Gloves T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964725",
+                "caption": []
+              },
+              {
+                "itemId": "310",
+                "name": "Frontiers Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696e468bdd3a6edec975edab.png",
+                  "name": "Frontiers Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964730",
+                "caption": []
+              },
+              {
+                "itemId": "309",
+                "name": "Armored MSGR Jacket T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dae14e9a3e4b7c53d5bcd.png",
+                  "name": "Armored MSGR Jacket T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964734",
+                "caption": []
+              },
+              {
+                "itemId": "308",
+                "name": "Frontiers Armor T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd3f1a4537379deaf3474.png",
+                  "name": "Frontiers Armor T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964738",
+                "caption": []
+              },
+              {
+                "itemId": "307",
+                "name": "Catastrophe Filter",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd150fb64b62c2836be8f.png",
+                  "name": "Catastrophe Filter",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964742",
+                "caption": []
+              },
+              {
+                "itemId": "306",
+                "name": "Frontiers Armor T3",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd41a8230f1b03cc50a1d.png",
+                  "name": "Frontiers Armor T3",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964772",
+                "caption": []
+              },
+              {
+                "itemId": "305",
+                "name": "Catastrophe Gauze Cartridge T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd1b2d09866eeaf56a8ee.png",
+                  "name": "Catastrophe Gauze Cartridge T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964781",
+                "caption": []
+              },
+              {
+                "itemId": "304",
+                "name": "Frontiers Blight RES Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd494f787d1fc599d9a15.png",
+                  "name": "Frontiers Blight RES Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964794",
+                "caption": []
+              },
+              {
+                "itemId": "303",
+                "name": "Catastrophe Gauze Cartridge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd1db4823bf18f42e7d6e.png",
+                  "name": "Catastrophe Gauze Cartridge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964800",
+                "caption": []
+              },
+              {
+                "itemId": "302",
+                "name": "Frontiers Comm",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696e465aef4126b3c2040ce8.png",
+                  "name": "Frontiers Comm",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964804",
+                "caption": []
+              },
+              {
+                "itemId": "301",
+                "name": "Catastrophe Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd201dd3a6edec975ed92.png",
+                  "name": "Catastrophe Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964808",
+                "caption": []
+              },
+              {
+                "itemId": "300",
+                "name": "Frontiers Comm T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd4b1682c1955b8638197.png",
+                  "name": "Frontiers Comm T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964813",
+                "caption": []
+              },
+              {
+                "itemId": "299",
+                "name": "Catastrophe Heavy Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd229d09866eeaf56a8ef.png",
+                  "name": "Catastrophe Heavy Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964825",
+                "caption": []
+              },
+              {
+                "itemId": "298",
+                "name": "Frontiers Extra O2 Tube",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd4d57a9d81effdbeedff.png",
+                  "name": "Frontiers Extra O2 Tube",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964830",
+                "caption": []
+              },
+              {
+                "itemId": "297",
+                "name": "Catastrophe Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd24b0920b30f43778da3.png",
+                  "name": "Catastrophe Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964836",
+                "caption": []
+              },
+              {
+                "itemId": "296",
+                "name": "Hot Work Exoskeleton",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd53ef47b48c6aa787a12.png",
+                  "name": "Hot Work Exoskeleton",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964842",
+                "caption": []
+              },
+              {
+                "itemId": "295",
+                "name": "Aburrey Sensor Chip T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da72641855c182ecdc1a1.png",
+                  "name": "Aburrey Sensor Chip T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964847",
+                "caption": []
+              },
+              {
+                "itemId": "294",
+                "name": "Hot Work Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd565433a5f03544128e1.png",
+                  "name": "Hot Work Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964852",
+                "caption": []
+              },
+              {
+                "itemId": "293",
+                "name": "Aburrey Sensor Chip",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da760e868cec3d8081176.png",
+                  "name": "Aburrey Sensor Chip",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964857",
+                "caption": []
+              },
+              {
+                "itemId": "292",
+                "name": "Hot Work Gauntlets T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd596e868cec3d808117d.png",
+                  "name": "Hot Work Gauntlets T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768964862",
+                "caption": []
+              },
+              {
+                "itemId": "291",
+                "name": "Aburrey Flashlight",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da5ca479fef709c2c3216.png",
+                  "name": "Aburrey Flashlight",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964866",
+                "caption": []
+              },
+              {
+                "itemId": "290",
+                "name": "Hot Work Power Bank",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd5cf62faf24e47c5251d.png",
+                  "name": "Hot Work Power Bank",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964871",
+                "caption": []
+              },
+              {
+                "itemId": "289",
+                "name": "Aburrey Auditory Chip T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da538a3dc39acc0469307.png",
+                  "name": "Aburrey Auditory Chip T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964877",
+                "caption": []
+              },
+              {
+                "itemId": "288",
+                "name": "Hot Work Pyrometer",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd66012f135f6ddc0c462.png",
+                  "name": "Hot Work Pyrometer",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964882",
+                "caption": []
+              },
+              {
+                "itemId": "287",
+                "name": "Aburrey UV Lamp",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da7814d84f24c1e9557bd.png",
+                  "name": "Aburrey UV Lamp",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964886",
+                "caption": []
+              },
+              {
+                "itemId": "286",
+                "name": "Hot Work Power Cartridge",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd63ce2418a3fd9e29380.png",
+                  "name": "Hot Work Power Cartridge",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768964890",
+                "caption": []
+              },
+              {
+                "itemId": "285",
+                "name": "Aburrey Auditory Chip",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da5a14823bf18f42e7d69.png",
+                  "name": "Aburrey Auditory Chip",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768964895",
+                "caption": []
+              },
+              {
+                "itemId": "284",
+                "name": "Mordvolt Resistant Battery",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defda1d54a250d5f4517c.png",
+                  "name": "Mordvolt Resistant Battery",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768964899",
+                "caption": []
+              },
+              {
+                "itemId": "283",
+                "name": "MI Security Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8ee8230f1b03cc50a1f.png",
+                  "name": "MI Security Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964965",
+                "caption": []
+              },
+              {
+                "itemId": "282",
+                "name": "Aburrey Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da620859d9d5c90cf7637.png",
+                  "name": "Aburrey Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768964970",
+                "caption": []
+              },
+              {
+                "itemId": "281",
+                "name": "Mordvolt Resistant Wrench",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defbff787d1fc599d9a1a.png",
+                  "name": "Mordvolt Resistant Wrench",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768964974",
+                "caption": []
+              },
+              {
+                "itemId": "280",
+                "name": "MI Security Overalls",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696e36416c326a83dea2eaef.png",
+                  "name": "MI Security Overalls",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964979",
+                "caption": []
+              },
+              {
+                "itemId": "279",
+                "name": "Aburrey Light Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da6a24b089c6bf87606ec.png",
+                  "name": "Aburrey Light Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964983",
+                "caption": []
+              },
+              {
+                "itemId": "278",
+                "name": "Mordvolt Resistant Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df015433a5f03544128e3.png",
+                  "name": "Mordvolt Resistant Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768964987",
+                "caption": []
+              },
+              {
+                "itemId": "277",
+                "name": "MI Security Overalls T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd990c4a7d14c7025c1e4.png",
+                  "name": "MI Security Overalls T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768964992",
+                "caption": []
+              },
+              {
+                "itemId": "276",
+                "name": "Aburrey Light Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da6d2ba9a40b68bcda564.png",
+                  "name": "Aburrey Light Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768964997",
+                "caption": []
+              },
+              {
+                "itemId": "275",
+                "name": "Aburrey Heavy Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da65ba4537379deaf3470.png",
+                  "name": "Aburrey Heavy Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768965002",
+                "caption": []
+              },
+              {
+                "itemId": "274",
+                "name": "Mordvolt Resistant Vest",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df05c816a3c0f65fe8a9e.png",
+                  "name": "Mordvolt Resistant Vest",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10265"],
+                "publishedAtTs": "1768965007",
+                "caption": []
+              },
+              {
+                "itemId": "273",
+                "name": "MI Security Overalls T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd9b062faf24e47c5251e.png",
+                  "name": "MI Security Overalls T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10263"],
+                "publishedAtTs": "1768965011",
+                "caption": []
+              },
+              {
+                "itemId": "272",
+                "name": "Aburrey Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da67ad09866eeaf56a8e7.png",
+                  "name": "Aburrey Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768965017",
+                "caption": []
+              },
+              {
+                "itemId": "271",
+                "name": "MI Security Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd911859d9d5c90cf763c.png",
+                  "name": "MI Security Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768965021",
+                "caption": []
+              },
+              {
+                "itemId": "270",
+                "name": "Miner Comm T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd6f1e3acca11e53da627.png",
+                  "name": "Miner Comm T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768965027",
+                "caption": []
+              },
+              {
+                "itemId": "269",
+                "name": "Mordvolt Insulation Battery",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696decd44b089c6bf87606f4.png",
+                  "name": "Mordvolt Insulation Battery",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965032",
+                "caption": []
+              },
+              {
+                "itemId": "268",
+                "name": "Miner Drive Wheel T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd82412f135f6ddc0c464.png",
+                  "name": "Miner Drive Wheel T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768965036",
+                "caption": []
+              },
+              {
+                "itemId": "267",
+                "name": "MI Security Hands PPE",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd95cdcdae0e84e9869b2.png",
+                  "name": "MI Security Hands PPE",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768965041",
+                "caption": []
+              },
+              {
+                "itemId": "266",
+                "name": "Mordvolt Insulation Wrench T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deec047aad8c833daeea1.png",
+                  "name": "Mordvolt Insulation Wrench T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965046",
+                "caption": []
+              },
+              {
+                "itemId": "265",
+                "name": "Miner Compression Core T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd7564d84f24c1e9557c7.png",
+                  "name": "Miner Compression Core T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768965052",
+                "caption": []
+              },
+              {
+                "itemId": "264",
+                "name": "MI Security Hands PPE T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd934a1c4dd69df7d69e4.png",
+                  "name": "MI Security Hands PPE T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10263"],
+                "publishedAtTs": "1768965057",
+                "caption": []
+              },
+              {
+                "itemId": "263",
+                "name": "Miner Turbine T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddbd77a9d81effdbeee01.png",
+                  "name": "Miner Turbine T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10267"],
+                "publishedAtTs": "1768965062",
+                "caption": []
+              },
+              {
+                "itemId": "262",
+                "name": "Mordvolt Insulation Wrench",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deefea1c4dd69df7d69e7.png",
+                  "name": "Mordvolt Insulation Wrench",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965067",
+                "caption": []
+              },
+              {
+                "itemId": "261",
+                "name": "MI Security Armband",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8c8303281de3f074f88.png",
+                  "name": "MI Security Armband",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768965073",
+                "caption": []
+              },
+              {
+                "itemId": "260",
+                "name": "Miner Fists T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd8aa133439cd5afffacc.png",
+                  "name": "Miner Fists T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768965078",
+                "caption": []
+              },
+              {
+                "itemId": "259",
+                "name": "Mordvolt Insulation Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded25519331a97920f801.png",
+                  "name": "Mordvolt Insulation Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768965083",
+                "caption": []
+              },
+              {
+                "itemId": "258",
+                "name": "Miner Gloves T2",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda56133439cd5afffacd.png",
+                  "name": "Miner Gloves T2",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10267"],
+                "publishedAtTs": "1768965089",
+                "caption": []
+              },
+              {
+                "itemId": "257",
+                "name": "MI Security Scope",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda4be2418a3fd9e29381.png",
+                  "name": "MI Security Scope",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768965095",
+                "caption": []
+              },
+              {
+                "itemId": "256",
+                "name": "Mordvolt Insulation Vest",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deda722b3d4859079ccb4.png",
+                  "name": "Mordvolt Insulation Vest",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10265"],
+                "publishedAtTs": "1768965100",
+                "caption": []
+              },
+              {
+                "itemId": "255",
+                "name": "Miner Overalls T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddb3b62faf24e47c52522.png",
+                  "name": "Miner Overalls T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768965107",
+                "caption": []
+              },
+              {
+                "itemId": "254",
+                "name": "MI Security Toolkit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda7ffb64b62c2836be91.png",
+                  "name": "MI Security Toolkit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768965112",
+                "caption": []
+              },
+              {
+                "itemId": "253",
+                "name": "Miner Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd61729caab7ab1be2418.png",
+                  "name": "Miner Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10267"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10267"],
+                "publishedAtTs": "1768965117",
+                "caption": []
+              },
+              {
+                "itemId": "252",
+                "name": "MI Security Push Knife",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd9f1a3dc39acc046930f.png",
+                  "name": "MI Security Push Knife",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768965121",
+                "caption": []
+              },
+              {
+                "itemId": "251",
+                "name": "Roving MSGR Gyro",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df2213aee85a90709d6dd.png",
+                  "name": "Roving MSGR Gyro",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965127",
+                "caption": []
+              },
+              {
+                "itemId": "250",
+                "name": "MI Security Push Knife T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda15303281de3f074f89.png",
+                  "name": "MI Security Push Knife T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10263"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10263"],
+                "publishedAtTs": "1768965135",
+                "caption": []
+              },
+              {
+                "itemId": "249",
+                "name": "Roving MSGR Flashlight",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df23dba9a40b68bcda570.png",
+                  "name": "Roving MSGR Flashlight",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965139",
+                "caption": []
+              },
+              {
+                "itemId": "248",
+                "name": "Roving MSGR Fists",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df25ad09e72e95f958ba5.png",
+                  "name": "Roving MSGR Fists",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768965143",
+                "caption": []
+              },
+              {
+                "itemId": "247",
+                "name": "Roving MSGR Jacket",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df281ee53304b0008b546.png",
+                  "name": "Roving MSGR Jacket",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10265"],
+                "publishedAtTs": "1768965148",
+                "caption": []
+              },
+              {
+                "itemId": "246",
+                "name": "Armored MSGR Gyro",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dadd2133439cd5afffac8.png",
+                  "name": "Armored MSGR Gyro",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965153",
+                "caption": []
+              },
+              {
+                "itemId": "245",
+                "name": "Armored MSGR Flashlight",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dabcee9a3e4b7c53d5bcc.png",
+                  "name": "Armored MSGR Flashlight",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965158",
+                "caption": []
+              },
+              {
+                "itemId": "244",
+                "name": "Armored MSGR Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dad66e3acca11e53da621.png",
+                  "name": "Armored MSGR Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768965163",
+                "caption": []
+              },
+              {
+                "itemId": "243",
+                "name": "Armored MSGR Jacket",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dae35d09866eeaf56a8e8.png",
+                  "name": "Armored MSGR Jacket",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10265"],
+                "publishedAtTs": "1768965167",
+                "caption": []
+              },
+              {
+                "itemId": "242",
+                "name": "Miner Comm",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd6aec9b3cd796e6b901b.png",
+                  "name": "Miner Comm",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965172",
+                "caption": []
+              },
+              {
+                "itemId": "241",
+                "name": "Miner Compression Core",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd720507303c4d44a26ce.png",
+                  "name": "Miner Compression Core",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965177",
+                "caption": []
+              },
+              {
+                "itemId": "240",
+                "name": "Miner Drive Wheel",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd801d09e72e95f958ba2.png",
+                  "name": "Miner Drive Wheel",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965181",
+                "caption": []
+              },
+              {
+                "itemId": "239",
+                "name": "Miner Turbine",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddb84519331a97920f7fe.png",
+                  "name": "Miner Turbine",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10265"],
+                "publishedAtTs": "1768965186",
+                "caption": []
+              },
+              {
+                "itemId": "238",
+                "name": "Miner Gloves T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda16682c1955b8638198.png",
+                  "name": "Miner Gloves T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768965190",
+                "caption": []
+              },
+              {
+                "itemId": "237",
+                "name": "Miner Gauntlets T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd916a4537379deaf3476.png",
+                  "name": "Miner Gauntlets T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10265"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10265"],
+                "publishedAtTs": "1768965195",
+                "caption": []
+              },
+              {
+                "itemId": "236",
+                "name": "AIC Ceramic Plate",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daa87ba9a40b68bcda565.png",
+                  "name": "AIC Ceramic Plate",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965200",
+                "caption": []
+              },
+              {
+                "itemId": "235",
+                "name": "AIC Light Plate",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daacc4d84f24c1e9557be.png",
+                  "name": "AIC Light Plate",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965209",
+                "caption": []
+              },
+              {
+                "itemId": "234",
+                "name": "AIC Tactical Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daaf162faf24e47c52519.png",
+                  "name": "AIC Tactical Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965214",
+                "caption": []
+              },
+              {
+                "itemId": "233",
+                "name": "AIC Light Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daaa5ee53304b0008b539.png",
+                  "name": "AIC Light Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965218",
+                "caption": []
+              },
+              {
+                "itemId": "232",
+                "name": "AIC Alloy Plate",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da8cea468ebd61385664e.png",
+                  "name": "AIC Alloy Plate",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965223",
+                "caption": []
+              },
+              {
+                "itemId": "231",
+                "name": "AIC Heavy Plate",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da94be2418a3fd9e29377.png",
+                  "name": "AIC Heavy Plate",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965228",
+                "caption": []
+              },
+              {
+                "itemId": "230",
+                "name": "AIC Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da8eda4537379deaf3471.png",
+                  "name": "AIC Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965233",
+                "caption": []
+              },
+              {
+                "itemId": "229",
+                "name": "AIC Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da907dd3a6edec975ed8d.png",
+                  "name": "AIC Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965238",
+                "caption": []
+              },
+              {
+                "itemId": "228",
+                "name": "Miner Fists",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd863e9a3e4b7c53d5bd0.png",
+                  "name": "Miner Fists",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965243",
+                "caption": []
+              },
+              {
+                "itemId": "227",
+                "name": "Miner Wrists",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddd65bc25979e22692622.png",
+                  "name": "Miner Wrists",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965248",
+                "caption": []
+              },
+              {
+                "itemId": "226",
+                "name": "Miner Cleansuit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd64f0920b30f43778da4.png",
+                  "name": "Miner Cleansuit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965253",
+                "caption": []
+              },
+              {
+                "itemId": "225",
+                "name": "Miner Vest",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddc63d09e72e95f958ba3.png",
+                  "name": "Miner Vest",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965258",
+                "caption": []
+              },
+              {
+                "itemId": "224",
+                "name": "Prototype Heavy Armor T1",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dde42e9a3e4b7c53d5bd2.png",
+                  "name": "Prototype Heavy Armor T1",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965263",
+                "caption": []
+              },
+              {
+                "itemId": "223",
+                "name": "Prototype Heavy Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dde2129caab7ab1be241a.png",
+                  "name": "Prototype Heavy Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965268",
+                "caption": []
+              },
+              {
+                "itemId": "222",
+                "name": "Emergency Compression Core",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5b7a468ebd613856654.png",
+                  "name": "Emergency Compression Core",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965273",
+                "caption": []
+              },
+              {
+                "itemId": "221",
+                "name": "Emergency Comm",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd553c15709c5bd08bfd9.png",
+                  "name": "Emergency Comm",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10244"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10244", "10266"],
+                "publishedAtTs": "1768965282",
+                "caption": []
+              },
+              {
+                "itemId": "220",
+                "name": "Miner Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd9967c0413b3124ca558.png",
+                  "name": "Miner Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965341",
+                "caption": []
+              },
+              {
+                "itemId": "219",
+                "name": "Miner Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd8e147aad8c833daee9c.png",
+                  "name": "Miner Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10266"],
+                "publishedAtTs": "1768965346",
+                "caption": []
+              },
+              {
+                "itemId": "218",
+                "name": "Miner Overalls",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda848a63ab649db93f8c.png",
+                  "name": "Miner Overalls",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965351",
+                "caption": []
+              },
+              {
+                "itemId": "216",
+                "name": "Miner Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5e2f787d1fc599d9a16.png",
+                  "name": "Miner Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10266"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10266"],
+                "publishedAtTs": "1768965356",
+                "caption": []
+              },
+              {
+                "itemId": "213",
+                "name": "Basic Gloves",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd4e59b232958b8d4d197.png",
+                  "name": "Basic Gloves",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10264"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10264"],
+                "publishedAtTs": "1768965361",
+                "caption": []
+              },
+              {
+                "itemId": "211",
+                "name": "Basic Gauntlets",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd46d6fc80a6e96441e69.png",
+                  "name": "Basic Gauntlets",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10246"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10264"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10246", "10264"],
+                "publishedAtTs": "1768965365",
+                "caption": []
+              },
+              {
+                "itemId": "208",
+                "name": "Basic PPE",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5284823bf18f42e7d71.png",
+                  "name": "Basic PPE",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10264"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10264"],
+                "publishedAtTs": "1768965370",
+                "caption": []
+              },
+              {
+                "itemId": "206",
+                "name": "Basic Armor",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd41f9b232958b8d4d196.png",
+                  "name": "Basic Armor",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [
+                    {
+                      "subTypeId": "10243",
+                      "value": "10245"
+                    },
+                    {
+                      "subTypeId": "10262",
+                      "value": "10264"
+                    }
+                  ],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": ["10245", "10264"],
+                "publishedAtTs": "1768965375",
+                "caption": []
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10000",
+                "children": [
+                  {
+                    "id": "10001",
+                    "children": [],
+                    "name": "1★",
+                    "type": 2,
+                    "value": "rarity_1"
+                  },
+                  {
+                    "id": "10002",
+                    "children": [],
+                    "name": "2★",
+                    "type": 2,
+                    "value": "rarity_2"
+                  },
+                  {
+                    "id": "10003",
+                    "children": [],
+                    "name": "3★",
+                    "type": 2,
+                    "value": "rarity_3"
+                  },
+                  {
+                    "id": "10004",
+                    "children": [],
+                    "name": "4★",
+                    "type": 2,
+                    "value": "rarity_4"
+                  },
+                  {
+                    "id": "10005",
+                    "children": [],
+                    "name": "5★",
+                    "type": 2,
+                    "value": "rarity_5"
+                  },
+                  {
+                    "id": "10006",
+                    "children": [],
+                    "name": "6★",
+                    "type": 2,
+                    "value": "rarity_6"
+                  }
+                ],
+                "name": "Rarity",
+                "type": 2,
+                "value": ""
+              },
+              {
+                "id": "10262",
+                "children": [
+                  {
+                    "id": "10264",
+                    "children": [],
+                    "name": "Gray",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10266",
+                    "children": [],
+                    "name": "Green",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10265",
+                    "children": [],
+                    "name": "Blue",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10267",
+                    "children": [],
+                    "name": "Purple",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10263",
+                    "children": [],
+                    "name": "Gold",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Rarity",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "id": "10243",
+                "children": [
+                  {
+                    "id": "10245",
+                    "children": [],
+                    "name": "Armor",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10246",
+                    "children": [],
+                    "name": "Gloves",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "id": "10244",
+                    "children": [],
+                    "name": "Kit",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "name": "Gear Type",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1770333843",
+  "data": {
+    "catalog": [
+      {
+        "id": "1",
+        "name": "Endfield Database",
+        "status": 2,
+        "position": 1,
+        "typeSub": [
+          {
+            "id": "15",
+            "name": "Essence",
+            "fatherTypeId": "1",
+            "style": 7,
+            "status": 2,
+            "position": 7,
+            "icon": "",
+            "items": [
+              {
+                "itemId": "682",
+                "name": "Flawless Essence: Brutality",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ecfd8a468ebd61385667f.png",
+                  "name": "Flawless Essence: Brutality",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1768995345",
+                "caption": []
+              },
+              {
+                "itemId": "681",
+                "name": "Flawless Essence: Infliction",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed03aa4537379deaf3497.png",
+                  "name": "Flawless Essence: Infliction",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002904",
+                "caption": []
+              },
+              {
+                "itemId": "680",
+                "name": "Flawless Essence: Detonate",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed059a3432288f624b050.png",
+                  "name": "Flawless Essence: Detonate",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002940",
+                "caption": []
+              },
+              {
+                "itemId": "679",
+                "name": "Flawless Essence: Assault",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed06ec193d2ad406c843c.png",
+                  "name": "Flawless Essence: Assault",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002944",
+                "caption": []
+              },
+              {
+                "itemId": "678",
+                "name": "Flawless Essence: Efficacy",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed082a3432288f624b052.png",
+                  "name": "Flawless Essence: Efficacy",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002948",
+                "caption": []
+              },
+              {
+                "itemId": "677",
+                "name": "Flawless Essence: Pursuit",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed09565ffe70e9535faf2.png",
+                  "name": "Flawless Essence: Pursuit",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002951",
+                "caption": []
+              },
+              {
+                "itemId": "676",
+                "name": "Flawless Essence: Combative",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed17ca1c4dd69df7d6a07.png",
+                  "name": "Flawless Essence: Combative",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002955",
+                "caption": []
+              },
+              {
+                "itemId": "675",
+                "name": "Flawless Essence: Fracture",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed0faf787d1fc599d9a43.png",
+                  "name": "Flawless Essence: Fracture",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002959",
+                "caption": []
+              },
+              {
+                "itemId": "674",
+                "name": "Flawless Essence: Medicant",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed10d3aee85a90709d6fc.png",
+                  "name": "Flawless Essence: Medicant",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002962",
+                "caption": []
+              },
+              {
+                "itemId": "673",
+                "name": "Flawless Essence: Crusher",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed197a3dc39acc046933e.png",
+                  "name": "Flawless Essence: Crusher",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002966",
+                "caption": []
+              },
+              {
+                "itemId": "672",
+                "name": "Flawless Essence: Twilight",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed1a641855c182ecdc1c6.png",
+                  "name": "Flawless Essence: Twilight",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002978",
+                "caption": []
+              },
+              {
+                "itemId": "671",
+                "name": "Flawless Essence: Inspiring",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed1c1f33d371ad95355d2.png",
+                  "name": "Flawless Essence: Inspiring",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002984",
+                "caption": []
+              },
+              {
+                "itemId": "670",
+                "name": "Flawless Essence",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed1d5c15709c5bd08bffe.png",
+                  "name": "Flawless Essence",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002913",
+                "caption": []
+              },
+              {
+                "itemId": "669",
+                "name": "Flawless Essence: Flow",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed1eae3acca11e53da646.png",
+                  "name": "Flawless Essence: Flow",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002917",
+                "caption": []
+              },
+              {
+                "itemId": "668",
+                "name": "Pure Essence",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed1fd682c1955b86381b8.png",
+                  "name": "Pure Essence",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002921",
+                "caption": []
+              },
+              {
+                "itemId": "667",
+                "name": "Clean Essence",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed21b4e40f4ca8347a521.png",
+                  "name": "Clean Essence",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002925",
+                "caption": []
+              },
+              {
+                "itemId": "666",
+                "name": "Flawless Essence: Suppression",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed230a468ebd613856680.png",
+                  "name": "Flawless Essence: Suppression",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002929",
+                "caption": []
+              },
+              {
+                "itemId": "665",
+                "name": "Stable Essence",
+                "lang": "en",
+                "brief": {
+                  "cover": "https://static.skport.com/image/rm42wiki/20260120/7040428526148/696ed243f33d371ad95355d3.png",
+                  "name": "Stable Essence",
+                  "description": null,
+                  "associate": null,
+                  "subTypeList": [],
+                  "composite": null
+                },
+                "status": 2,
+                "tagIds": [],
+                "publishedAtTs": "1769002933",
+                "caption": []
+              }
+            ],
+            "filterTagTree": [
+              {
+                "id": "10000",
+                "children": [
+                  {
+                    "id": "10001",
+                    "children": [],
+                    "name": "1★",
+                    "type": 2,
+                    "value": "rarity_1"
+                  },
+                  {
+                    "id": "10002",
+                    "children": [],
+                    "name": "2★",
+                    "type": 2,
+                    "value": "rarity_2"
+                  },
+                  {
+                    "id": "10003",
+                    "children": [],
+                    "name": "3★",
+                    "type": 2,
+                    "value": "rarity_3"
+                  },
+                  {
+                    "id": "10004",
+                    "children": [],
+                    "name": "4★",
+                    "type": 2,
+                    "value": "rarity_4"
+                  },
+                  {
+                    "id": "10005",
+                    "children": [],
+                    "name": "5★",
+                    "type": 2,
+                    "value": "rarity_5"
+                  },
+                  {
+                    "id": "10006",
+                    "children": [],
+                    "name": "6★",
+                    "type": 2,
+                    "value": "rarity_6"
+                  }
+                ],
+                "name": "Rarity",
+                "type": 2,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
