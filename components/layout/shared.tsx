@@ -1,0 +1,51 @@
+import type { BaseLayoutProps, LinkItemType } from "fumadocs-ui/layouts/shared";
+import { AlbumIcon, LayoutTemplate } from "lucide-react";
+import Image from "next/image";
+import { Github, Discord } from "../nucleo";
+
+export function baseOptions(): BaseLayoutProps {
+  return {
+    nav: {
+      title: (
+        <>
+          <Image src="/logo.png" alt="Endvoyant" width={20} height={20} className="rounded-md" />
+          <span className="font-medium">Endvoyant</span>
+        </>
+      ),
+    },
+  };
+}
+
+export const linkItems: LinkItemType[] = [
+  {
+    icon: <AlbumIcon />,
+    text: "Dashboard",
+    url: "/dashboard",
+    active: "nested-url",
+  },
+  {
+    text: "Showcase",
+    url: "/showcase",
+    icon: <LayoutTemplate />,
+    active: "url",
+  },
+];
+
+export const iconLinks: LinkItemType[] = [
+  {
+    type: "icon",
+    url: "https://discord.gg/5rUsSZTyf2",
+    label: "discord",
+    text: "Discord",
+    external: true,
+    icon: <Discord />,
+  },
+  {
+    type: "icon",
+    url: "https://github.com/ScobbleQ/Endvoyant",
+    label: "github",
+    text: "GitHub",
+    external: true,
+    icon: <Github />,
+  },
+];

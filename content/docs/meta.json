@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "---Introduction---",
+    "index",
+    "what-is-endvoyant",
+    "supported-games",
+    "changelog",
+    "---Guides---",
+    "...(guides)",
+    "---Commands---",
+    "...(commands)",
+    "---Information---",
+    "...(information)",
+    "---Links---",
+    "external:[Discord Server](https://discord.gg/5rUsSZTyf2)",
+    "external:[Invite Endvoyant](https://discord.com/oauth2/authorize?client_id=1463987008157389005)",
+    "external:[GitHub Repository](https://github.com/ScobbleQ/Endvoyant)"
+  ]
+}
