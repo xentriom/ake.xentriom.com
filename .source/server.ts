@@ -2,8 +2,8 @@ import { server } from "fumadocs-mdx/runtime/server";
 import * as __fd_glob_7 from "../content/docs/(commands)/about.mdx?collection=docs";
 import { default as __fd_glob_1 } from "../content/docs/(commands)/meta.json?collection=docs";
 import * as __fd_glob_8 from "../content/docs/(guides)/faq.mdx?collection=docs";
-import { default as __fd_glob_2 } from "../content/docs/(guides)/meta.json?collection=docs";
-import { default as __fd_glob_3 } from "../content/docs/(information)/meta.json?collection=docs";
+import { default as __fd_glob_3 } from "../content/docs/(guides)/meta.json?collection=docs";
+import { default as __fd_glob_2 } from "../content/docs/(information)/meta.json?collection=docs";
 import * as __fd_glob_9 from "../content/docs/(information)/privacy-policy.mdx?collection=docs";
 // @ts-nocheck
 import * as __fd_glob_10 from "../content/docs/(information)/terms-of-service.mdx?collection=docs";
@@ -36,8 +36,8 @@ export const docs = await create.docs(
   {
     "meta.json": __fd_glob_0,
     "(commands)/meta.json": __fd_glob_1,
-    "(guides)/meta.json": __fd_glob_2,
-    "(information)/meta.json": __fd_glob_3,
+    "(information)/meta.json": __fd_glob_2,
+    "(guides)/meta.json": __fd_glob_3,
   },
   {
     "changelog.mdx": __fd_glob_4,
