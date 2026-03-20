@@ -4,8 +4,12 @@ import type { NextConfig } from "next";
 const withMDX = createMDX();
 
 const nextConfig: NextConfig = {
-  reactStrictMode: true,
   reactCompiler: true,
+  reactStrictMode: true,
+  typedRoutes: true,
+  logging: {
+    browserToTerminal: true,
+  },
   async rewrites() {
     return [
       {
