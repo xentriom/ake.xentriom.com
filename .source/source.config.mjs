@@ -6,20 +6,17 @@ var docs = defineDocs({
   docs: {
     schema: frontmatterSchema,
     postprocess: {
-      includeProcessedMarkdown: true
-    }
+      includeProcessedMarkdown: true,
+    },
   },
   meta: {
-    schema: metaSchema
-  }
+    schema: metaSchema,
+  },
 });
 var source_config_default = defineConfig({
   mdxOptions: {
     // MDX options
   },
-  plugins: [lastModified()]
+  plugins: [lastModified()],
 });
-export {
-  source_config_default as default,
-  docs
-};
+export { source_config_default as default, docs };
