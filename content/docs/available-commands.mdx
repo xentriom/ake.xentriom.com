@@ -1,0 +1,45 @@
+---
+title: Available Commands
+description: A high-level map of Endvoyant's current slash commands
+---
+
+## Command Overview
+
+Endvoyant currently ships with the following slash commands for **Arknights: Endfield**.
+
+| Command        | Linked account required    | Response style | Purpose                                                            |
+| -------------- | -------------------------- | -------------- | ------------------------------------------------------------------ |
+| `/about`       | No                         | Shared         | Project summary, version, and quick links                          |
+| `/add account` | No                         | Ephemeral      | Link a SKPort-backed Endfield account                              |
+| `/settings`    | Yes                        | Ephemeral      | Manage privacy, language, notifications, and account-level toggles |
+| `/data`        | Yes                        | Ephemeral      | Export the data Endvoyant stores for your Discord user             |
+| `/survey`      | No                         | Ephemeral      | Submit product feedback through in-app surveys                     |
+| `/attendance`  | Yes                        | Shared         | Run attendance for one account or all linked accounts              |
+| `/profile`     | Yes                        | Shared         | View profile stats, live data, and a short roster preview          |
+| `/development` | Yes                        | Shared         | View regional development levels, funds, and settlement progress   |
+| `/exploration` | Yes                        | Shared         | View region exploration completion by area                         |
+| `/characters`  | Yes                        | Shared         | Browse your owned operators, filter them, and open detail views    |
+| `/redeem`      | Yes                        | Shared         | Attempt a redemption code against your first linked account        |
+| `/events`      | No                         | Shared         | Browse the localized in-game bulletin feed                         |
+| `/enka`        | Only when `uid` is omitted | Ephemeral      | Placeholder for a future Enka.Network integration                  |
+
+## Account Setup
+
+- Use [`/about`](/docs/about) to get the website, invite link, support server, and GitHub repository.
+- Use [`/add account`](/docs/add) to start onboarding and link your first Endfield account.
+- Use [`/settings`](/docs/settings) after linking to control visibility, language, DMs, and per-account automation toggles.
+- Use [`/data`](/docs/data) when you want a direct ZIP export of stored user, account, event, and attempted-code data.
+
+## Gameplay and Reference
+
+- Use [`/attendance`](/docs/attendance) for manual sign-in runs. If no account is selected, Endvoyant attempts every linked account it can access.
+- Use [`/profile`](/docs/profile), [`/development`](/docs/development), and [`/exploration`](/docs/exploration) for account-facing views sourced from cached profile data.
+- Use [`/characters`](/docs/characters) to browse owned operators with rarity, profession, and element filters, then open a detail page or generate an image.
+- Use [`/redeem`](/docs/redeem) to submit a code and track whether it has already been attempted for that account.
+- Use [`/events`](/docs/events) for the public bulletin feed. This works even if you have never linked an account.
+
+## Current Limits
+
+- Endvoyant is currently focused on **Arknights: Endfield** only.
+- [`/enka`](/docs/enka) is present in the slash-command surface, but the current implementation only returns a placeholder warning.
+- [`/survey`](/docs/survey) exposes multiple survey cards, but the currently implemented submission flows are the suggestions/feedback and image-generation forms.

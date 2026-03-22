@@ -1,0 +1,62 @@
+---
+title: Add
+description: Add a SKPort account to your Discord account
+---
+
+## Add command
+
+Start the account-linking flow for an Endfield account.
+
+## Usage
+
+```text
+/add account
+```
+
+## Parameters
+
+- `account`
+  Starts the Endfield account-linking flow.
+
+## Before You Start
+
+- You need access to the Endfield account you want to link.
+- If the normal login flow works for you, use that first.
+- If the login flow is not working or you prefer not to type credentials into the modal, use the token/cookie flow instead.
+
+## What It Does
+
+- Creates or reuses your Endvoyant user profile and starts the account-linking flow.
+- Guides you through either direct login or token/cookie-based linking.
+- Verifies the selected Endfield binding before storing the account in Endvoyant.
+
+## Linking Methods
+
+- The recommended path is the normal login flow.
+- The token/cookie flow is the fallback path when you want to copy the SKPort cookie header manually instead of entering login credentials.
+- Both paths end in the same Endfield binding check before Endvoyant stores the account.
+
+## Token / Cookie Flow
+
+- The current token parser expects `ACCOUNT_TOKEN`, `SK_OAUTH_CRED_KEY`, and `HG_INFO_KEY` with a valid `hgId`.
+- Open the Endfield SKPort sign-in page and keep DevTools open on the **Network** tab before logging in.
+- After logging in, open the `account_token` request and copy everything after `Cookie:`.
+- Paste that full cookie value into the token modal when Endvoyant asks for it.
+- The full step-by-step guide is documented in [Getting SKPort Cookies](/docs/getting-skport-cookies).
+
+## What Happens After Linking
+
+- Endvoyant stores the linked account under your Discord user.
+- If it is your first linked account, it becomes your primary account automatically.
+- After linking, you can immediately use commands such as [`/attendance`](/docs/attendance), [`/profile`](/docs/profile), [`/characters`](/docs/characters), and [`/settings`](/docs/settings).
+
+## Validation Rules
+
+- First-time users may be shown an onboarding step before linking.
+- Endvoyant looks for the `endfield` binding and uses the default role when one is available.
+- Existing linked accounts are detected and surfaced instead of duplicated.
+- If the linked role is banned or no valid Endfield role is found, the flow stops with a warning.
+
+## Additional Notes
+
+- The current source allows up to five linked accounts per Discord user.

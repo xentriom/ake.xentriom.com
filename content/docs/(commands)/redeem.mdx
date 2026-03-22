@@ -1,0 +1,30 @@
+---
+title: Redeem
+description: Redeem codes
+---
+
+## Redeem command
+
+Attempt a redemption code against your linked Endfield account.
+
+## Usage
+
+```text
+/redeem code:<code>
+```
+
+## Parameters
+
+- `code` (required)
+  The redemption code to submit.
+
+## What It Does
+
+- Attempts to redeem an Endfield code against your linked account.
+- Tracks whether a code has already been attempted for that account.
+- Prevents repeat success submissions when the code has already been redeemed successfully.
+
+## Additional Notes
+
+- The current implementation uses the first linked account for redemption.
+- If the upstream service rejects the code, Endvoyant returns the upstream status and message.

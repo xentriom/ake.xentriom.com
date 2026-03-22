@@ -23,7 +23,8 @@ export const metadata: Metadata = {
     default: "Endvoyant",
     template: "%s - Endvoyant",
   },
-  description: "Endvoyant Documentation and Guides",
+  description:
+    "Endvoyant is a Discord companion for Arknights: Endfield with profile sync, daily attendance, wiki lookup, redemption tools, and live account views.",
 };
 
 export default function Layout({ children }: LayoutProps<"/">) {
@@ -33,7 +34,7 @@ export default function Layout({ children }: LayoutProps<"/">) {
       className={`${geistSans.variable} ${geistMono.variable}`}
       suppressHydrationWarning
     >
-      <body className={`font-sans flex flex-col min-h-screen antialiased`}>
+      <body className="flex min-h-screen flex-col font-sans antialiased">
         <NextProvider>
           <TreeContextProvider tree={source.getPageTree()}>
             <RootProvider>

@@ -1,0 +1,37 @@
+---
+title: Attendance
+description: Attendance to SKPort
+---
+
+## Attendance command
+
+Run Endfield attendance for one linked account or all linked accounts.
+
+## Usage
+
+```text
+/attendance
+/attendance account:<linked account>
+```
+
+## Parameters
+
+- `account` (optional)
+  Selects one linked account to sign in. If omitted, Endvoyant attempts attendance for every linked account it can access.
+
+## When To Use It
+
+- Use this when you want to manually claim attendance rewards right now.
+- If you link more than one account, omit `account` to run attendance across all of them.
+- If you prefer automation, enable auto check-in per account in [`/settings`](/docs/settings).
+
+## What It Does
+
+- Runs Endfield attendance for one linked account or every linked account if `account` is omitted.
+- Returns reward details for each successful sign-in attempt.
+- Stores reward results for event tracking when the bot is running in production.
+
+## Additional Notes
+
+- If you omit `account`, Endvoyant processes all linked accounts it can access.
+- If no linked account exists, the command instructs you to use [`/add account`](/docs/add).

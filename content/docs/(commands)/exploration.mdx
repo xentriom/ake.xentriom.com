@@ -1,0 +1,35 @@
+---
+title: Exploration
+description: View your Region Exploration data
+---
+
+## Exploration command
+
+View region exploration completion for yourself or another visible user.
+
+## Usage
+
+```text
+/exploration
+/exploration account:<linked account>
+/exploration user:<discord user>
+/exploration user:<discord user> account:<visible linked account>
+```
+
+## Parameters
+
+- `user` (optional)
+  Targets another Discord user instead of yourself.
+- `account` (optional)
+  Chooses which linked account to load for the selected user. When omitted, Endvoyant uses the primary account or first visible account.
+
+## What It Does
+
+- Shows region exploration progress for the selected account.
+- Supports targeting another Discord user when their profile and account are visible to you.
+- Includes an interactive domain selector for changing the viewed region inside the same response.
+
+## Additional Notes
+
+- Targeting another user respects both user privacy and account privacy.
+- If `account` is omitted, Endvoyant falls back to the primary account or first visible account.

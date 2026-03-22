@@ -1,8 +1,62 @@
 ---
 title: What is Endvoyant?
-description: Learn about Endvoyant and its features
+description: What Endvoyant is, what it automates, and what the current bot actually supports
 ---
 
 ## Overview
 
-Endvoyant
+Endvoyant is a Discord bot for **Arknights: Endfield** that pulls account-facing information and
+routine game actions into a chat-native workflow.
+
+Instead of bouncing between web tools, screenshots, and manual reminders, Endvoyant keeps the most
+useful Endfield account utilities available through short slash commands inside Discord.
+
+## Core Features
+
+- **Account linking:** Link up to five Endfield accounts to one Discord user through the SKPort flow.
+- **Attendance:** Run sign-in manually with [`/attendance`](/docs/attendance) or enable per-account automation in [`/settings`](/docs/settings).
+- **Profile surfaces:** Open profile, regional development, and exploration views without leaving Discord.
+- **Character browsing:** Filter owned operators by rarity, profession, and element, then open a full detail view.
+- **Events feed:** Browse the public in-game bulletin feed with localized results.
+- **Code redemption:** Attempt redeem codes directly through the bot and track prior attempts.
+
+## Who It Is For
+
+- Players who want faster access to Endfield account data.
+- Discord communities that want a shared utility bot instead of multiple external tools.
+- Self-hosters who want the same codebase used by the public project.
+
+## How It Works
+
+Endvoyant stores a Discord-side user profile, then links one or more Endfield accounts to it. From
+there, commands can either:
+
+- read cached profile data and render it in Discord, or
+- perform account actions such as attendance and code redemption against the linked account
+  credentials.
+
+The bot also includes scheduled background work for account maintenance, including automatic
+attendance for opted-in accounts and periodic token refresh.
+
+## Privacy Model
+
+- User-level privacy controls whether other Discord users can target your account-facing commands.
+- Account-level privacy controls whether a specific linked account can be viewed by others.
+- Commands such as [`/profile`](/docs/profile), [`/development`](/docs/development), and
+  [`/exploration`](/docs/exploration) enforce both privacy layers when another user is targeted.
+
+## Hosted or Self-Hosted
+
+You can either invite the hosted bot with 24/7 uptime or self-host your own instance with Node.js
+and PostgreSQL.
+
+- Hosted: use the invite link in [Inviting the Bot](/docs/inviting-the-bot)
+- Self-hosted: use the setup steps in the repository and docs
+
+## Current Boundaries
+
+- Endvoyant is currently built for **Arknights: Endfield** only.
+- [`/enka`](/docs/enka) exists in the slash-command surface, but the implementation is still a
+  placeholder until that upstream API is stable enough to support.
+- The documentation site and the public bot are fan-built project surfaces, not official game
+  properties or first-party tools.

@@ -1,0 +1,36 @@
+---
+title: Characters
+description: View all your obtained operators
+---
+
+## Characters command
+
+Browse your owned operators, filter them, and open a detailed character view.
+
+## Usage
+
+```text
+/characters
+/characters account:<linked account>
+/characters name:<character>
+/characters account:<linked account> name:<character>
+```
+
+## Parameters
+
+- `account` (optional)
+  Chooses which linked account to load. If omitted, Endvoyant uses your primary account or the first linked account.
+- `name` (optional)
+  Jumps directly to a specific owned operator instead of opening the catalog first.
+
+## What It Does
+
+- Opens a roster catalog for the selected account, defaulting to the primary account when omitted.
+- Supports direct character lookup when `name` is provided.
+- Provides interactive filters for rarity, profession, and element, along with pagination and detail views.
+- Allows users to open a dedicated character page and generate a shareable image from that detail view.
+
+## Additional Notes
+
+- The catalog view shows five operators per page.
+- If `name` is provided, Endvoyant jumps straight to that character instead of the catalog.

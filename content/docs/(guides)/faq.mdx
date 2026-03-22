@@ -1,11 +1,56 @@
 ---
 title: FAQ
-description: Frequently asked questions and troubleshooting
+description: Common questions about linking, privacy, automation, and current command behavior
 ---
 
 ## General
 
----
+- **What game does Endvoyant support?**
+  Endvoyant is focused on **Arknights: Endfield**.
+
+- **Do I need to self-host it to use it?**
+  No. The hosted version is the fastest path for most users. You only need to self-host if you
+  want your own deployment and database.
+
+- **Where do I invite the bot?**
+  Use the link in [Inviting the Bot](/docs/inviting-the-bot).
+
+- **What kind of data does it show?**
+  Endvoyant can surface profile data, operator information, regional development, attendance state,
+  and wiki references, depending on the command and your linked account state.
+
+- **How many accounts can I link?**
+  The current source allows up to five linked Endfield accounts per Discord user.
+
+- **Can other users inspect my account?**
+  Only if your profile visibility and the specific account visibility both allow it. You can change
+  those in [`/settings`](/docs/settings).
+
+- **Does Endvoyant support more than English?**
+  Yes. The current settings surface includes multiple UI languages, and the events feed uses your
+  saved language context when available.
+
+## Troubleshooting
+
+- **A command returns no account data.**
+  Confirm that your account is linked correctly and that any required session or login state is
+  still valid.
+
+- **Attendance or redeem actions are not working.**
+  Retry after confirming your linked credentials are still current. If the upstream service has
+  changed, check the project Discord for status updates.
+
+- **Why does `/enka` not open my profile yet?**
+  The command is in the current slash surface, but the implementation is still a placeholder while
+  the Enka.Network API is not stable enough for this integration.
+
+- **Why did a survey button not open a form?**
+  In the current build, the suggestions/feedback and image-generation survey flows are implemented.
+  If another survey card does nothing, it is likely a visible placeholder rather than a live form.
+
+- **I found a bug or a missing data point.**
+  Open an issue on the [GitHub repository](https://github.com/ScobbleQ/Endvoyant) or ask in the
+  [Discord server](https://discord.gg/5rUsSZTyf2).
 
 ## Still stuck?
 

@@ -1,0 +1,35 @@
+---
+title: Development
+description: View your Regional Development data
+---
+
+## Development command
+
+View regional development progress, funds, and settlement status for an Endfield account.
+
+## Usage
+
+```text
+/development
+/development account:<linked account>
+/development user:<discord user>
+/development user:<discord user> account:<visible linked account>
+```
+
+## Parameters
+
+- `user` (optional)
+  Targets another Discord user instead of yourself.
+- `account` (optional)
+  Chooses which linked account to load for the selected user. When omitted, Endvoyant uses the primary account or first visible account.
+
+## What It Does
+
+- Shows regional development information for your selected Endfield account.
+- Lets you target another Discord user when their profile and account visibility allow it.
+- Opens an interactive selector so you can swap between available development domains.
+
+## Additional Notes
+
+- If `user` targets someone else, Endvoyant respects both the user-level privacy setting and the account-level privacy setting.
+- If `account` is omitted, the command uses the primary account or the first visible account.

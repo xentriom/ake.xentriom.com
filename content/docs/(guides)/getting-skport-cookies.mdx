@@ -1,0 +1,38 @@
+---
+title: Getting SKPort Cookies
+description: Use the fallback cookie flow for `/add account` when direct login is not the right option
+---
+
+## Getting SKPort Cookies
+
+Use this guide only if you want the **token/cookie** option inside [`/add account`](/docs/add).
+The normal login flow is still the recommended path.
+
+The current bot expects the cookie text you paste into the modal to contain:
+
+- `ACCOUNT_TOKEN`
+- `SK_OAUTH_CRED_KEY`
+- `HG_INFO_KEY` with a valid `hgId`
+
+## Step-by-Step
+
+1. Open the Endfield sign-in page on SKPort:
+   [game.skport.com/endfield/sign-in](https://game.skport.com/endfield/sign-in)
+2. Do **not** log in yet.
+3. Open your browser developer tools and switch to the **Network** tab.
+4. Log in to SKPort while the Network tab is open.
+5. Use the network search box and search for `token`.
+6. Open the request labeled `account_token`.
+7. In the request headers, find the `Cookie` header.
+8. Copy everything after `Cookie:` and paste that full value into the token modal in Endvoyant.
+
+## Tips
+
+- Paste the full cookie header value, not a single cookie fragment.
+- If parsing fails, the pasted value is usually missing one of the required cookie keys.
+- If the token flow keeps failing, go back and use the normal login flow instead.
+
+## Where This Is Used
+
+This guide matches the current fallback flow shown from the **Link with Token** button inside
+[`/add account`](/docs/add).

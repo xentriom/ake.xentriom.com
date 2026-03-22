@@ -1,0 +1,35 @@
+---
+title: Profile
+description: Get your profile information
+---
+
+## Profile command
+
+Open the main Endfield profile summary for yourself or another visible user.
+
+## Usage
+
+```text
+/profile
+/profile account:<linked account>
+/profile user:<discord user>
+/profile user:<discord user> account:<visible linked account>
+```
+
+## Parameters
+
+- `user` (optional)
+  Targets another Discord user instead of yourself.
+- `account` (optional)
+  Chooses which linked account to load for the selected user. When omitted, Endvoyant uses the primary account or first visible account.
+
+## What It Does
+
+- Displays the main Endfield profile card for an account, including UID, server, account stats, and last login.
+- Includes real-time data such as stamina, activity, weekly routine, and protocol pass progress.
+- Summarizes regional development and shows a short operator preview from the roster.
+
+## Additional Notes
+
+- Other-user lookup respects banned, missing, private-user, and private-account states.
+- If `account` is omitted, the command uses the primary account or first visible account.

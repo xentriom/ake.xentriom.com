@@ -1,10 +1,9 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
   "experimentalTailwindcss": {
-    "stylesheet": "./path/to/stylesheet.css",
+    "stylesheet": "./app/globals.css",
     "attributes": ["class", "className"],
-    "functions": ["clsx", "cn"],
-    "preserveWhitespace": true
+    "functions": ["clsx", "cn"]
   },
   "experimentalSortImports": {
     "newlinesBetween": false,

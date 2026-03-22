@@ -10,9 +10,12 @@ import { Book } from "lucide-react";
 import { linkItems, iconLinks, baseOptions } from "@/components/layout/shared";
 
 export default function Layout({ children }: LayoutProps<"/">) {
+  const options = baseOptions();
+
   return (
     <HomeLayout
-      {...baseOptions()}
+      {...options}
+      nav={{ ...options.nav, transparentMode: "top" }}
       links={[
         {
           type: "menu",
@@ -35,26 +38,26 @@ export default function Layout({ children }: LayoutProps<"/">) {
 
                 <NavbarMenuLink href="/docs/what-is-endvoyant" className="lg:col-start-2">
                   <p className="font-medium">What is Endvoyant?</p>
-                  <p className="text-fd-muted-foreground text-sm">
+                  <p className="text-sm text-fd-muted-foreground">
                     Learn about Endvoyant and its features
                   </p>
                 </NavbarMenuLink>
                 <NavbarMenuLink href="/docs/available-commands" className="lg:col-start-2">
                   <p className="font-medium">Available Commands</p>
-                  <p className="text-fd-muted-foreground text-sm">See all available commands</p>
+                  <p className="text-sm text-fd-muted-foreground">See all available commands</p>
                 </NavbarMenuLink>
                 <NavbarMenuLink
                   href="/docs/inviting-the-bot"
                   className="lg:col-start-3 lg:row-start-1"
                 >
                   <p className="font-medium">Inviting the Bot</p>
-                  <p className="text-fd-muted-foreground text-sm">
+                  <p className="text-sm text-fd-muted-foreground">
                     Add Endvoyant to your Discord server
                   </p>
                 </NavbarMenuLink>
                 <NavbarMenuLink href="/docs/faq" className="lg:col-start-3 lg:row-start-2">
                   <p className="font-medium">FAQ & Troubleshooting</p>
-                  <p className="text-fd-muted-foreground text-sm">Common questions and fixes</p>
+                  <p className="text-sm text-fd-muted-foreground">Common questions and fixes</p>
                 </NavbarMenuLink>
               </NavbarMenuContent>
             </NavbarMenu>

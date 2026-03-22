@@ -1,4 +1,18 @@
 {
   "title": "Commands",
-  "pages": ["..."]
+  "pages": [
+    "about",
+    "add",
+    "settings",
+    "data",
+    "survey",
+    "attendance",
+    "profile",
+    "development",
+    "exploration",
+    "characters",
+    "redeem",
+    "events",
+    "enka"
+  ]
 }
