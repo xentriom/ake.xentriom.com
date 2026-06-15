@@ -25,15 +25,7 @@ const browserCollections = {
     "changelog.mdx": () => import("../content/docs/changelog.mdx?collection=docs"),
     "index.mdx": () => import("../content/docs/index.mdx?collection=docs"),
     "what-is-endvoyant.mdx": () => import("../content/docs/what-is-endvoyant.mdx?collection=docs"),
-    "(guides)/faq.mdx": () => import("../content/docs/(guides)/faq.mdx?collection=docs"),
-    "(guides)/getting-skport-cookies.mdx": () =>
-      import("../content/docs/(guides)/getting-skport-cookies.mdx?collection=docs"),
-    "(guides)/inviting-the-bot.mdx": () =>
-      import("../content/docs/(guides)/inviting-the-bot.mdx?collection=docs"),
-    "(information)/privacy-policy.mdx": () =>
-      import("../content/docs/(information)/privacy-policy.mdx?collection=docs"),
-    "(information)/terms-of-service.mdx": () =>
-      import("../content/docs/(information)/terms-of-service.mdx?collection=docs"),
+    "whats-new.mdx": () => import("../content/docs/whats-new.mdx?collection=docs"),
     "(commands)/about.mdx": () => import("../content/docs/(commands)/about.mdx?collection=docs"),
     "(commands)/add.mdx": () => import("../content/docs/(commands)/add.mdx?collection=docs"),
     "(commands)/attendance.mdx": () =>
@@ -53,6 +45,15 @@ const browserCollections = {
     "(commands)/settings.mdx": () =>
       import("../content/docs/(commands)/settings.mdx?collection=docs"),
     "(commands)/survey.mdx": () => import("../content/docs/(commands)/survey.mdx?collection=docs"),
+    "(guides)/faq.mdx": () => import("../content/docs/(guides)/faq.mdx?collection=docs"),
+    "(guides)/getting-skport-cookies.mdx": () =>
+      import("../content/docs/(guides)/getting-skport-cookies.mdx?collection=docs"),
+    "(guides)/inviting-the-bot.mdx": () =>
+      import("../content/docs/(guides)/inviting-the-bot.mdx?collection=docs"),
+    "(information)/privacy-policy.mdx": () =>
+      import("../content/docs/(information)/privacy-policy.mdx?collection=docs"),
+    "(information)/terms-of-service.mdx": () =>
+      import("../content/docs/(information)/terms-of-service.mdx?collection=docs"),
   }),
 };
 export default browserCollections;
